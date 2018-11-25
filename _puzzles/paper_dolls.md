@@ -1,10 +1,10 @@
 ---
 title: "Paper Dolls"
-excerpt: "This will be a short description of the project."
-collection: puzzles
-subcategory: authored
+collection: paper_dolls
+subcategory: puzzles
 header: 
   teaser: /assets/images/puzzles/paper_dolls.png
+type: "authored"
 ---
 
 This will be a short description of the project.

@@ -1,11 +1,11 @@
 ---
 title: "Game of Simon Toy Hack"
-excerpt: "A simple children's toy torn down and rebuilt into an interactive game of Simon."
-collection: projects
-subcategory: complete
+collection: simon_hack
+subcategory: projects
 header: 
   teaser: /assets/images/projects/2015-05-19_simon_hack.png
-date: 2015-05-19
+type: "complete"
+venue: "2015-05-19"
 ---
 
 A simple children's toy torn down and rebuilt into an interactive game of Simon.

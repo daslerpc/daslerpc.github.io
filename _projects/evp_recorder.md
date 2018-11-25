@@ -1,10 +1,10 @@
 ---
 title: "EVP Recorder"
-excerpt: "This will be a short description of the project."
-collection: projects
-subcategory: concept
+collection: evp_recorder
+subcategory: projects
 header: 
   teaser: /assets/images/projects/evp_recorder.png
+type: "concept"
 ---
 
 This will be a short description of the project.

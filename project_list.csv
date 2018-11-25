@@ -1,7 +1,7 @@
 Title,description,file_name,collection,subcategory,type,date,venue,location,citation
 Validating Complex Interval-Based Temporal Queries Over Streams,"A project covering various methods for validating temporal queries, an implementation of a temporal database with range queries, and an experiment to determine the time costs of adding a validation step to query plans.",interval_queries,projects,complete,,2013-05-01,,,
 "When Life Gives You Lemons, Plan to Open a Lemonade Stand!","An attempt to create advanced game-playing agents for the Lemonade Stand Game, an annual competition at the time, run by Yahoo! Labs' Martin Zinkevich.",lemonade_stand,projects,complete,,2012-05-01,,,
-Kinect Air Guitar,"Playing an ""actual"" air guitar using the Microst Kinect.",kinect_air_guitar,projects,complete,,2011-05-01,,,
+Kinect Air Guitar,Playing an actual air guitar using the Microst Kinect.,kinect_air_guitar,projects,complete,,2011-05-01,,,
 Jedi Nightlight,A 3D printed nightlight.  Turning it over turns it on and reveals hidden patterns embedded in the walls.,jedi_nightlight,projects,complete,,2015-05-22,,,
 Kinect Charades,A game of charades in which one partner acts as a puppet and the other as a puppeteer.  The partners are separated and communication occurs exclusively from puppeteer to puppet via tactile feedback.  The game uses Microsoft Kinects determine the poses of the puppeteer and the puppet.  The strength of vibration from motors worn by the puppet then  guide them to match the pose of the unseen puppeteer.,kinect_charades,projects,complete,,2015-05-08,,,
 Weather Reporting Shirt,"A t-shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread.",weather_shirt,projects,complete,,2015-05-21,,,

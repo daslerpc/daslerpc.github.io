@@ -1,10 +1,10 @@
 ---
 title: "The Xbox Puzzle"
-excerpt: "This will be a short description of the project."
-collection: puzzles
-subcategory: contributed
+collection: famine_xbox
+subcategory: puzzles
 header: 
   teaser: /assets/images/puzzles/famine_xbox.png
+type: "contributed"
 ---
 
 This will be a short description of the project.

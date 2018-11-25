@@ -1,10 +1,10 @@
 ---
 title: "Locurio"
-excerpt: "An interactive entertainment company co-founded by me."
-collection: puzzles
-subcategory: event
+collection: locurio
+subcategory: puzzles
 header: 
   teaser: /assets/images/puzzles/locurio.png
+type: "event"
 ---
 
 An interactive entertainment company co-founded by me.
