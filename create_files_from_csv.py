@@ -56,9 +56,9 @@ with open('project_list.csv', 'rU') as csvfile:
             raise ValueError('Python version ill-defined.')
     
     for row in csv_reader:
-        file_name = row[2]
-        collection = row[3]
-        date = row[6]
+        file_name = row[1]
+        collection = row[2]
+        date = row[5]
 
         if not date == '':
                 file_name = date + '_' + file_name

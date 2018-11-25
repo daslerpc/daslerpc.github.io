@@ -1,9 +1,9 @@
 ---
 title: "My Teaching Statement"
-collection: teaching_statement
-subcategory: teaching
+collection: teaching
+subcategory: statement
 header: 
   teaser: /assets/images/teaching/teaching_statement.png
-type: "statement"
+paperurl: "http://daslerpc.github.io/files/teaching_statement.pdf"
 ---
 

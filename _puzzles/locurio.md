@@ -1,10 +1,9 @@
 ---
 title: "Locurio"
-collection: locurio
-subcategory: puzzles
+collection: puzzles
+subcategory: event
 header: 
   teaser: /assets/images/puzzles/locurio.png
-type: "event"
 ---
 
 An interactive entertainment company co-founded by me.

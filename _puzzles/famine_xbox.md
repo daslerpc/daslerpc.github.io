@@ -1,10 +1,9 @@
 ---
 title: "The Xbox Puzzle"
-collection: famine_xbox
-subcategory: puzzles
+collection: puzzles
+subcategory: contributed
 header: 
   teaser: /assets/images/puzzles/famine_xbox.png
-type: "contributed"
 ---
 
 This will be a short description of the project.
