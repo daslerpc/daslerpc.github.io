@@ -282,6 +282,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _talks
+  - scope: 
+      path: ""
+      type: talks
+    values: 
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: talks
+    values: 
+      layout: single
+      author_profile: true
   # _projects
   - scope:
       path: ""
@@ -301,6 +315,12 @@ defaults:
 # Collections
 collections:
   publications:
+    output: true
+    permalink: /:collection/:path/
+  talks: 
+    output: true
+    permalink: /:collection/:path/
+  teaching: 
     output: true
     permalink: /:collection/:path/
   projects:
