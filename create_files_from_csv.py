@@ -35,7 +35,7 @@ def writeProjectHeader(data_row):
         writeDataTag('location', '"' + data_row[7] + '"')
         
         if data_row[2] == 'publications' or data_row[3] == 'statement':
-                writeDataTag('paperurl', '"http://daslerpc.github.io/files/' + file_name + '.pdf"')
+                writeDataTag('paperurl', '"http://daslerpc.github.io/assets/papers/' + file_name + '.pdf"')
                 
         writeDataTag('citation', '"' + data_row[8] + '"')
 
