@@ -1,6 +1,6 @@
 ---
 title: "Kinect Air Guitar"
-excerpt: "Playing an "actual" air guitar using the Microst Kinect."
+excerpt: "Playing an actual air guitar using the Microst Kinect."
 collection: projects
 subcategory: complete
 header: 
