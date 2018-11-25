@@ -36,6 +36,14 @@ def writeProjectHeader(data_row):
         
         if data_row[2] == 'publications' or data_row[3] == 'statement':
                 writeDataTag('paperurl', '"http://daslerpc.github.io/assets/papers/' + file_name + '.pdf"')
+
+        writeDataTag('feature_row', '', 'category')
+        writeDataTag('- image_path', image_filename, 'subcategory')
+        writeDataTag('  title', '"'+data_row[0]+'"', 'subcategory')
+        writeDataTag('  excerpt', '"'+data_row[9]+'"', 'subcategory')
+        writeDataTag('  url', '"http://daslerpc.github.io/'+collection+'/'+ file_name +'"' ,'subcategory')
+        writeDataTag('  btn_label','"Read More"', 'subcategory')
+        writeDataTag('  btn_class','"btn--primary"', 'subcategory')
                 
         writeDataTag('citation', '"' + data_row[8] + '"')
 

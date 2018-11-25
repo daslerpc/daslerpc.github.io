@@ -1,54 +1,54 @@
-Title,file_name,collection,subcategory,type,date,venue,location,citation
-Validating Complex Interval-Based Temporal Queries Over Streams,interval_queries,projects,complete,,2013-05-01,,,
-"When Life Gives You Lemons, Plan to Open a Lemonade Stand!",lemonade_stand,projects,complete,,2012-05-01,,,
-Kinect Air Guitar,kinect_air_guitar,projects,complete,,2011-05-01,,,
-Jedi Nightlight,jedi_nightlight,projects,complete,,2015-05-22,,,
-Kinect Charades,kinect_charades,projects,complete,,2015-05-08,,,
-Weather Reporting Shirt,weather_shirt,projects,complete,,2015-05-21,,,
-Game of Simon Toy Hack,simon_hack,projects,complete,,2015-05-19,,,
-The Anywhere Sundial,anywhere_sundial,projects,concept,,,,,
-EVP Recorder,evp_recorder,projects,concept,,,,,
-2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,
-Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,
-City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,
-Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,
-RFID Magic Wand,locurio_wand,projects,spoiler,,2015-04-25,,,
-LED Chameleon Costume,led_chameleon,projects,concept,,,,,
-TRIAGE Emergency Department Resource Allocation Tool,triage,projects,complete,,2012-11-30,,,
-The Xbox Puzzle,famine_xbox,puzzles,contributed,,,,,
-Paper Dolls,paper_dolls,puzzles,authored,,,,,
-Minotaur's Labyrinth,minotairs_labyrinth,puzzles,authored,,,,,
-Lego Music Box,lego_musicbox,projects,complete,,2000-06-01,,,
-Locurio,locurio,puzzles,event,,,,,
-The Famine Game,famine_game,puzzles,event,,,,,
-The Iterated Traveler's Dilemma: Finding Good Strategies in Games with 'Bad' Structure,EUMAS,publications,conference,,2010-12-16,Proceedings of the Eighth European Workshop on Multi-Agent Systems (EUMAS),,
-Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma,FCS,publications,conference,,2011-07-18,Proceedings of the International Conference on Foundations of Computer Science (FCS),,
-How To Play Well in Non-Zero Sum Games: Some Lessons from the Generalized Traveler's Dilemma,AMT,publications,conference,,2011-09-07,Proceedings of the 2011 International Conference on Active Media Technology (AMT),,
-Iterated Traveler's Dilemma: Analysis of Individual and Team Performances and Challenges Ahead,EUMAS,publications,conference,,2011-11-14,Proceedings of the Ninth European Workshop on Multi-Agent Systems (EUMAS),,
-Strategies for Challenging Two-player Games-Some Lessons from Iterated Traveler's Dilemma,ICAART,publications,conference,,2012-02-06,Proceedings of the International Conference on Agents and Artificial Intelligence (ICAART),,
-On Finding and Learning Effective Strategies for Complex Non-Zero-Sum Repeated Games,IAT,publications,conference,,2012-12-04,IEEE/WIC/ACM Intelligent Agent Technology (IAT),,
-2048 is NP-Complete,CG_YRF,publications,conference,,2015-06-22,Computational Geometry: Young Researchers Forum,,
-On the Complexity of an Unregulated Traffic Crossing,WADS,publications,conference,,2015-08-05,Algorithms and Data Structures Symposium (WADS),,
-2048 Without New Tiles Is Still Hard,FUN,publications,conference,,2016-06-08,8th International Conference on Fun with Algorithms (FUN),,
-Modular Circulation and Applications to Traffic Management,WADS,publications,conference,,2017-07-31,Algorithms and Data Structures Symposium (WADS),,
-Modular Circulation and Applications to Traffic Management,ALGO,publications,journal,,2018-07-27,Algorithmica,,
-The Iterated Traveler's Dilemma: Seeking Stability in An Unstable Action Space,SIAM,talks,conference,Conference proceedings talk,2011-05-23,SIAM Conference on Applications of Dynamical Systems,"Snowbird Ski and Summer Resort, Snowbird, UT",
-Playing Challenging Iterated Two-Person Games Well: A Case Study on The Iterated Traveler's Dilemma,masters_defense,talks,department,"Departmental talk, Master's thesis defense",2011-08-10,Department of Computer Science,"The University of Houston, Houston, TX",
-The Famine Game: Port-mortem,GC_summit,talks,presentation,Conference presentation,2014-02-01,GC Summit,"Google campus, Mountain View, CA",
-On the Complexity of an Unregulated Traffic Crossing,FWCG,talks,conference,Conference presentation,2014-11-01,The Fall Workshop on Computational Geometry (FWCG),"The University of Connecticut, Storrs, CT",
-On the Complexity of an Unregulated Traffic Crossing,WADS,talks,conference,Conference proceedings talk,2015-08-06,Algorithms and Data Structures Symposium (WADS),"The University of Victoria, Victoria, BC, Canada",
-On the Complexity of Motion Planning with Traffic,phd_proposal,talks,department,"Departmental talk, Doctoral thesis proposal",2015-10-06,Department of Computer Science,"The University of Maryland, College Park, MD",
-Only GC Thinks This is Funny: Puzzle Writing Lessons from the Trenches,UTG,talks,presentation,Conference presentation,2017-05-09,Up The Game - Interational Escape Room and Real Life Gaming Conference,"FutureDome, Breda, The Netherlands",
-Modular Circulation and Applications to Traffic Management,WADS,talks,conference,Conference proceedings talk,2017-08-02,Algorithms and Data Structures Symposium (WADS),"Memorial University of Newfoundland, St. John's, Newfoundland, Canada ",
-Computational Geometry (Fall 2014),CG_UMD,teaching,graduate,"Graduate course, Teaching Assistant",2014-09-01,"The University of Maryland, Computer Science Department","College Park, MD",
-Machine Learning (Spring 2013),ML_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2013-04-01,"The University of Maryland, Computer Science Department","College Park, MD",
-Object-Oriented Programming II - Java (Spring 2012),OOP2_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2012-04-01,"The University of Maryland, Computer Science Department","College Park, MD",
-Object-Oriented Programming I - Java (Fall 2011),OOP1_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2011-09-01,"The University of Maryland, Computer Science Department","College Park, MD",
-"Intermediate Fencing: Foil, Epee, Saber (Fall 2004 - Fall 2005)",Fencing2_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-09-01,"The University of Texas, Kinesiology Department","Austin, TX",
-Beginning Fencing: Foil (Spring 2004 -Fall 2005),Fencing1_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-04-01,"The University of Texas, Kinesiology Department","Austin, TX",
-Basic Scuba Diving (Fall 2003 - Spring 2004),Scuba_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2003-09-01,"The University of Texas, Kinesiology Department","Austin, TX",
-Computer Science II (Fall 1999 - Spring 2000),CS2_CLHS,teaching,high_school,"High School course, Teaching Assistant",1999-09-01,Clear Lake High School,"Houston, TX",
-Computer Science I (Fall 1998 - Spring 2000),CS1_CLHS,teaching,high_school,"High School course, Teaching Assistant",1998-09-01,Clear Lake High School,"Houston, TX",
-Computer Science I (Spring 1999),CST_CLHS,teaching,high_school,"High School course, Private Tutor",1999-04-01,Clear Lake High School,"Houston, TX",
-Teaching at the Collegiate Level (Spring 2014),teaching_collegiate,teaching,training,Training course,2014-04-01,"The University of Maryland, Teaching and Learning Center","College Park, MD",
-My Teaching Statement,teaching_statement,teaching,statement,,,,,
+Title,file_name,collection,subcategory,type,date,venue,location,citation,excerpt
+Validating Complex Interval-Based Temporal Queries Over Streams,interval_queries,projects,complete,,2013-05-01,,,,Excerpt
+"When Life Gives You Lemons, Plan to Open a Lemonade Stand!",lemonade_stand,projects,complete,,2012-05-01,,,,Excerpt
+Kinect Air Guitar,kinect_air_guitar,projects,complete,,2011-05-01,,,,Excerpt
+Jedi Nightlight,jedi_nightlight,projects,complete,,2015-05-22,,,,Excerpt
+Kinect Charades,kinect_charades,projects,complete,,2015-05-08,,,,Excerpt
+Weather Reporting Shirt,weather_shirt,projects,complete,,2015-05-21,,,,Excerpt
+Game of Simon Toy Hack,simon_hack,projects,complete,,2015-05-19,,,,Excerpt
+The Anywhere Sundial,anywhere_sundial,projects,concept,,,,,,Excerpt
+EVP Recorder,evp_recorder,projects,concept,,,,,,Excerpt
+2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,,Excerpt
+Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,,Excerpt
+City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,Excerpt
+Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,Excerpt
+RFID Magic Wand,locurio_wand,projects,spoiler,,2015-04-25,,,,Excerpt
+LED Chameleon Costume,led_chameleon,projects,concept,,,,,,Excerpt
+TRIAGE Emergency Department Resource Allocation Tool,triage,projects,complete,,2012-11-30,,,,Excerpt
+The Xbox Puzzle,famine_xbox,puzzles,contributed,,,,,,Excerpt
+Paper Dolls,paper_dolls,puzzles,authored,,,,,,Excerpt
+Minotaur's Labyrinth,minotairs_labyrinth,puzzles,authored,,,,,,Excerpt
+Lego Music Box,lego_musicbox,projects,complete,,2000-06-01,,,,Excerpt
+Locurio,locurio,puzzles,event,,,,,,Excerpt
+The Famine Game,famine_game,puzzles,event,,,,,,Excerpt
+The Iterated Traveler's Dilemma: Finding Good Strategies in Games with 'Bad' Structure,EUMAS,publications,conference,,2010-12-16,Proceedings of the Eighth European Workshop on Multi-Agent Systems (EUMAS),,,Excerpt
+Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma,FCS,publications,conference,,2011-07-18,Proceedings of the International Conference on Foundations of Computer Science (FCS),,,Excerpt
+How To Play Well in Non-Zero Sum Games: Some Lessons from the Generalized Traveler's Dilemma,AMT,publications,conference,,2011-09-07,Proceedings of the 2011 International Conference on Active Media Technology (AMT),,,Excerpt
+Iterated Traveler's Dilemma: Analysis of Individual and Team Performances and Challenges Ahead,EUMAS,publications,conference,,2011-11-14,Proceedings of the Ninth European Workshop on Multi-Agent Systems (EUMAS),,,Excerpt
+Strategies for Challenging Two-player Games-Some Lessons from Iterated Traveler's Dilemma,ICAART,publications,conference,,2012-02-06,Proceedings of the International Conference on Agents and Artificial Intelligence (ICAART),,,Excerpt
+On Finding and Learning Effective Strategies for Complex Non-Zero-Sum Repeated Games,IAT,publications,conference,,2012-12-04,IEEE/WIC/ACM Intelligent Agent Technology (IAT),,,Excerpt
+2048 is NP-Complete,CG_YRF,publications,conference,,2015-06-22,Computational Geometry: Young Researchers Forum,,,Excerpt
+On the Complexity of an Unregulated Traffic Crossing,WADS,publications,conference,,2015-08-05,Algorithms and Data Structures Symposium (WADS),,,Excerpt
+2048 Without New Tiles Is Still Hard,FUN,publications,conference,,2016-06-08,8th International Conference on Fun with Algorithms (FUN),,,Excerpt
+Modular Circulation and Applications to Traffic Management,WADS,publications,conference,,2017-07-31,Algorithms and Data Structures Symposium (WADS),,,Excerpt
+Modular Circulation and Applications to Traffic Management,ALGO,publications,journal,,2018-07-27,Algorithmica,,,Excerpt
+The Iterated Traveler's Dilemma: Seeking Stability in An Unstable Action Space,SIAM,talks,conference,Conference proceedings talk,2011-05-23,SIAM Conference on Applications of Dynamical Systems,"Snowbird Ski and Summer Resort, Snowbird, UT",,Excerpt
+Playing Challenging Iterated Two-Person Games Well: A Case Study on The Iterated Traveler's Dilemma,masters_defense,talks,department,"Departmental talk, Master's thesis defense",2011-08-10,Department of Computer Science,"The University of Houston, Houston, TX",,Excerpt
+The Famine Game: Port-mortem,GC_summit,talks,presentation,Conference presentation,2014-02-01,GC Summit,"Google campus, Mountain View, CA",,Excerpt
+On the Complexity of an Unregulated Traffic Crossing,FWCG,talks,conference,Conference presentation,2014-11-01,The Fall Workshop on Computational Geometry (FWCG),"The University of Connecticut, Storrs, CT",,Excerpt
+On the Complexity of an Unregulated Traffic Crossing,WADS,talks,conference,Conference proceedings talk,2015-08-06,Algorithms and Data Structures Symposium (WADS),"The University of Victoria, Victoria, BC, Canada",,Excerpt
+On the Complexity of Motion Planning with Traffic,phd_proposal,talks,department,"Departmental talk, Doctoral thesis proposal",2015-10-06,Department of Computer Science,"The University of Maryland, College Park, MD",,Excerpt
+Only GC Thinks This is Funny: Puzzle Writing Lessons from the Trenches,UTG,talks,presentation,Conference presentation,2017-05-09,Up The Game - Interational Escape Room and Real Life Gaming Conference,"FutureDome, Breda, The Netherlands",,Excerpt
+Modular Circulation and Applications to Traffic Management,WADS,talks,conference,Conference proceedings talk,2017-08-02,Algorithms and Data Structures Symposium (WADS),"Memorial University of Newfoundland, St. John's, Newfoundland, Canada ",,Excerpt
+Computational Geometry (Fall 2014),CG_UMD,teaching,graduate,"Graduate course, Teaching Assistant",2014-09-01,"The University of Maryland, Computer Science Department","College Park, MD",,Excerpt
+Machine Learning (Spring 2013),ML_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2013-04-01,"The University of Maryland, Computer Science Department","College Park, MD",,Excerpt
+Object-Oriented Programming II - Java (Spring 2012),OOP2_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2012-04-01,"The University of Maryland, Computer Science Department","College Park, MD",,Excerpt
+Object-Oriented Programming I - Java (Fall 2011),OOP1_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2011-09-01,"The University of Maryland, Computer Science Department","College Park, MD",,Excerpt
+"Intermediate Fencing: Foil, Epee, Saber (Fall 2004 - Fall 2005)",Fencing2_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-09-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
+Beginning Fencing: Foil (Spring 2004 -Fall 2005),Fencing1_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-04-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
+Basic Scuba Diving (Fall 2003 - Spring 2004),Scuba_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2003-09-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
+Computer Science II (Fall 1999 - Spring 2000),CS2_CLHS,teaching,high_school,"High School course, Teaching Assistant",1999-09-01,Clear Lake High School,"Houston, TX",,Excerpt
+Computer Science I (Fall 1998 - Spring 2000),CS1_CLHS,teaching,high_school,"High School course, Teaching Assistant",1998-09-01,Clear Lake High School,"Houston, TX",,Excerpt
+Computer Science I (Spring 1999),CST_CLHS,teaching,high_school,"High School course, Private Tutor",1999-04-01,Clear Lake High School,"Houston, TX",,Excerpt
+Teaching at the Collegiate Level (Spring 2014),teaching_collegiate,teaching,training,Training course,2014-04-01,"The University of Maryland, Teaching and Learning Center","College Park, MD",,Excerpt
+My Teaching Statement,teaching_statement,teaching,statement,,,,,,Excerpt
