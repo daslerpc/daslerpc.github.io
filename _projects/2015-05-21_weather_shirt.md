@@ -1,0 +1,12 @@
+---
+title: "Weather Reporting Shirt"
+excerpt: "A t-shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread."
+collection: projects
+subcategory: complete
+header: 
+  teaser: projects/2015-05-21_weather_shirt.png
+date: 2015-05-21
+permalink: /projects/2015-05-21_weather_shirt
+---
+
+PAGE_TEMPLATE_GOES_HERE

@@ -1,23 +1,25 @@
 ---
 title: "Jedi Holocron Nightlight"
-excerpt: "3D printed nightlight cube activated by flipping the cube upside down"
-header:
-  image: 
-  teaser: /assets/images/jedi_nightlight.jpg
+excerpt: "A 3D printed Star Wars themed nightlight which is turned on and off by flipping it over."
+collection: projects
+subcategory: complete
+header: 
+  image: jedi_nightlight.jpg
+  teaser: jedi_nightlight.jpg
 gallery:
-  - url: /assets/images/jedi_nightlight.jpg
-    image_path: assets/images/jedi_nightlight.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/jedi_nightlight.jpg
-    image_path: assets/images/jedi_nightlight.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/jedi_nightlight.jpg
-    image_path: assets/images/jedi_nightlight.jpg
-    alt: "placeholder image 3"
+  - url: bio-photo-2.jpg
+    image_path: bio-photo-2.jpg
+    alt: "placeholder 1"
+  - url: editing-talk.png
+    image_path: editing-talk.png
+    alt: "placeholder 2"
+  - url: bio-photo.jpg
+    image_path: bio-photo.jpg
+    alt: "placeholder 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="A bunch of stuff in a gallery" %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
