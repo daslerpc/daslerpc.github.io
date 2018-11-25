@@ -4,17 +4,17 @@ excerpt: "A 3D printed nightlight.  Turning it over turns it on and reveals hidd
 collection: projects
 subcategory: complete
 header: 
-  teaser: /assets/images/projects/2015-05-22_jedi_nightlight.png
+  teaser: /assets/images/projects/2015-05-22_jedi_nightlight.jpg
 date: 2015-05-22
 gallery:
-  - url: /assets/images/projects/2015-05-22_jedi_nightlight.png
-    image_path: assets/images/projects/2015-05-22_jedi_nightlight.png
+  - url: /assets/images/projects/2015-05-22_jedi_nightlight.jpg
+    image_path: assets/images/projects/2015-05-22_jedi_nightlight.jpg
     alt: "placeholder 1"
-  - url: /assets/images/projects/2015-05-22_jedi_nightlight.png
-    image_path: assets/images/projects/2015-05-22_jedi_nightlight.png
+  - url: /assets/images/projects/2015-05-22_jedi_nightlight.jpg
+    image_path: assets/images/projects/2015-05-22_jedi_nightlight.jpg
     alt: "placeholder 2"
-  - url: /assets/images/projects/2015-05-22_jedi_nightlight.png
-    image_path: assets/images/projects/2015-05-22_jedi_nightlight.png
+  - url: /assets/images/projects/2015-05-22_jedi_nightlight.jpg
+    image_path: assets/images/projects/2015-05-22_jedi_nightlight.jpg
     alt: "placeholder 3"
 ---
 
