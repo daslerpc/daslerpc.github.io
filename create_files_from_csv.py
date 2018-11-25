@@ -64,17 +64,23 @@ with open('project_list.csv', 'rU') as csvfile:
         if not date == '':
                 file_name = date + '_' + file_name
 
-        filepath = '_' + collection + '/' + file_name + '.md'
+        filepath = '_' + collection + '/' + file_name
         
-        project_file = open(filepath, 'w')
+        project_file = open(filepath + '.md', 'w')
 
         project_file.write('---\n')
         writeProjectHeader(row)
-        project_file.write('---\n')
+        project_file.write('---\n')        
         project_file.write('\n')
-        project_file.write("PAGE_TEMPLATE_GOES_HERE\n")
-        project_file.close()
 
+        if not os.path.isfile(filepath + '.bod'):
+                tempfile = open(filepath + '.bod', 'w').write(row[1])
+                tempfile.close()
+                
+        project_body = open(filepath + '.bod')
+        project_file.write(project_body.read())
+        project_file.close()
+        
     csvfile.close()
 
 print("All done!")
