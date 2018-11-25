@@ -8,4 +8,4 @@ header:
 date: 2012-05-01
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+An attempt to create advanced game-playing agents for the Lemonade Stand Game, an annual competition at the time, run by Yahoo! Labs' Martin Zinkevich.

@@ -10,4 +10,3 @@ venue: "The University of Maryland, Teaching and Learning Center"
 location: "College Park, MD"
 ---
 
-PAGE_TEMPLATE_GOES_HERE

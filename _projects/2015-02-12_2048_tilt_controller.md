@@ -8,4 +8,4 @@ header:
 date: 2015-02-12
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A motion sensitive controller for the game 2048, built into a calculator.

@@ -7,4 +7,3 @@ header:
 paperurl: "http://daslerpc.github.io/files/teaching_statement.pdf"
 ---
 
-PAGE_TEMPLATE_GOES_HERE

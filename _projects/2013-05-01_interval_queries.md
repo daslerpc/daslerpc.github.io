@@ -8,4 +8,4 @@ header:
 date: 2013-05-01
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A project covering various methods for validating temporal queries, an implementation of a temporal database with range queries, and an experiment to determine the time costs of adding a validation step to query plans.

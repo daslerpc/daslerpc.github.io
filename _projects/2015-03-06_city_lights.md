@@ -8,4 +8,4 @@ header:
 date: 2015-03-06
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+An interactive installation with a stylized city skyline that reacts to the wind.

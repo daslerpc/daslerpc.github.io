@@ -8,4 +8,4 @@ header:
 date: 2015-05-21
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A t-shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread.

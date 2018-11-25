@@ -8,4 +8,4 @@ header:
 date: 2015-05-08
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A game of charades in which one partner acts as a puppet and the other as a puppeteer.  The partners are separated and communication occurs exclusively from puppeteer to puppet via tactile feedback.  The game uses Microsoft Kinects determine the poses of the puppeteer and the puppet.  The strength of vibration from motors worn by the puppet then  guide them to match the pose of the unseen puppeteer.

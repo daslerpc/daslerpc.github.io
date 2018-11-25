@@ -8,4 +8,4 @@ header:
 date: 2015-05-19
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A simple children's toy torn down and rebuilt into an interactive game of Simon.

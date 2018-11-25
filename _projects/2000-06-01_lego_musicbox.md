@@ -8,4 +8,4 @@ header:
 date: 2000-06-01
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A Lego Mindstorms music box with interchangable music discs.

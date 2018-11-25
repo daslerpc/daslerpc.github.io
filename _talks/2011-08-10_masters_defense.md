@@ -1,6 +1,6 @@
 ---
 title: "Playing Challenging Iterated Two-Person Games Well: A Case Study on The Iterated Traveler's Dilemma"
-excerpt: "Talk excerpt goes here."
+excerpt: "Talk description goes here."
 collection: talks
 subcategory: department
 header: 
@@ -11,4 +11,4 @@ venue: "Department of Computer Science"
 location: "The University of Houston, Houston, TX"
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+Talk description goes here.

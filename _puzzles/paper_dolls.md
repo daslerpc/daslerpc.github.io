@@ -7,4 +7,4 @@ header:
   teaser: /assets/images/puzzles/paper_dolls.png
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+This will be a short description of the project.

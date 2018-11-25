@@ -7,4 +7,4 @@ header:
   teaser: /assets/images/puzzles/famine_game.png
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A weekend long puzzle hunt marathon around the Washington D.C. area co-produced by me.

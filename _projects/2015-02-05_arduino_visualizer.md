@@ -8,4 +8,4 @@ header:
 date: 2015-02-05
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+A program built in Processing for visualizing the analog and digital inputs of an Arduino.

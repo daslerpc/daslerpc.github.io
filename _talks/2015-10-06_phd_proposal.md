@@ -1,6 +1,6 @@
 ---
 title: "On the Complexity of Motion Planning with Traffic"
-excerpt: "Talk excerpt goes here."
+excerpt: "Talk description goes here."
 collection: talks
 subcategory: department
 header: 
@@ -11,4 +11,4 @@ venue: "Department of Computer Science"
 location: "The University of Maryland, College Park, MD"
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+Talk description goes here.

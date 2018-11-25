@@ -8,4 +8,4 @@ header:
 date: 2017-08-18
 ---
 
-PAGE_TEMPLATE_GOES_HERE
+This will be a short description of the project.
