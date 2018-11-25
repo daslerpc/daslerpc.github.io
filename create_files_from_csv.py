@@ -25,20 +25,18 @@ def writeProjectHeader(data_row):
                 copyfile('./assets/images/cs_umd_logo.png', '.'+image_filename)
                 
         writeDataTag('title', '"' + data_row[0] + '"')
-        writeDataTag('excerpt', '"' + data_row[1] + '"')
-        writeDataTag('collection', data_row[3])
-        writeDataTag('subcategory', data_row[4])
+        writeDataTag('collection', data_row[2])
+        writeDataTag('subcategory', data_row[3])
         writeDataTag('header','', 'category')
         writeDataTag('teaser', image_filename, 'subcategory')
-        writeDataTag('type', '"' + data_row[5] + '"')
-        writeDataTag('date', data_row[6])
-        writeDataTag('venue', '"' + data_row[7] + '"')
-        writeDataTag('location', '"' + data_row[8] + '"')
+        writeDataTag('type', '"' + data_row[4] + '"')
+        writeDataTag('date', data_row[5])
+        writeDataTag('venue', '"' + data_row[6] + '"')
+        writeDataTag('location', '"' + data_row[7] + '"')
         
-        if data_row[3] == 'publications' or data_row[4] == 'statement':
                 writeDataTag('paperurl', '"http://daslerpc.github.io/files/' + file_name + '.pdf"')
                 
-        writeDataTag('citation', '"' + data_row[9] + '"')
+        writeDataTag('citation', '"' + data_row[8] + '"')
 
 
 ##################
@@ -72,13 +70,10 @@ with open('project_list.csv', 'rU') as csvfile:
         writeProjectHeader(row)
         project_file.write('---\n')        
         project_file.write('\n')
-
-        if not os.path.isfile(filepath + '.bod'):
-                tempfile = open(filepath + '.bod', 'w').write(row[1])
-                tempfile.close()
                 
         project_body = open(filepath + '.bod')
         project_file.write(project_body.read())
+
         project_file.close()
         
     csvfile.close()
