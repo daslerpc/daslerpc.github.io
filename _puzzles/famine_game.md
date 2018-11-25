@@ -4,8 +4,7 @@ excerpt: "A weekend long puzzle hunt marathon around the Washington D.C. area co
 collection: puzzles
 subcategory: event
 header: 
-  teaser: puzzles/famine_game.png
-permalink: /puzzles/famine_game
+  teaser: /assets/images/puzzles/famine_game.png
 ---
 
 PAGE_TEMPLATE_GOES_HERE

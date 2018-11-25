@@ -3,8 +3,7 @@ title: "My Teaching Statement"
 collection: teaching
 subcategory: statement
 header: 
-  teaser: teaching/teaching_statement.png
-permalink: /teaching/teaching_statement
+  teaser: /assets/images/teaching/teaching_statement.png
 paperurl: "http://daslerpc.github.io/files/teaching_statement.pdf"
 ---
 

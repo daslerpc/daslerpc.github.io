@@ -4,9 +4,8 @@ excerpt: "An attempt to create advanced game-playing agents for the Lemonade Sta
 collection: projects
 subcategory: complete
 header: 
-  teaser: projects/2012-05-01_lemonade_stand.png
+  teaser: /assets/images/projects/2012-05-01_lemonade_stand.png
 date: 2012-05-01
-permalink: /projects/2012-05-01_lemonade_stand
 ---
 
 PAGE_TEMPLATE_GOES_HERE

@@ -15,26 +15,25 @@ def writeDataTag( tag_name, tag_data, special_type='None' ):
                 project_file.write(tag_name + ': ' + tag_data + '\n')
                 
 def writeProjectHeader(data_row):
-        image_filename = file_name+'.png'
-        image_directory = './images/'+collection+'/'
+        image_directory = '/assets/images/'+collection+'/'
+        image_filename = image_directory + file_name+'.png'
         
-        if not os.path.exists(image_directory):
-                os.makedirs(image_directory)
+        if not os.path.exists('.'+image_directory):
+                os.makedirs('.'+image_directory)
             
-        if not os.path.isfile(image_directory+image_filename):
-                copyfile('./images/cs_umd_logo.png', '.'+image_filename)
+        if not os.path.isfile('.'+image_filename):
+                copyfile('./assets/images/cs_umd_logo.png', '.'+image_filename)
                 
         writeDataTag('title', '"' + data_row[0] + '"')
         writeDataTag('excerpt', '"' + data_row[1] + '"')
         writeDataTag('collection', data_row[3])
         writeDataTag('subcategory', data_row[4])
         writeDataTag('header','', 'category')
-        writeDataTag('teaser', collection+'/'+image_filename, 'subcategory')
+        writeDataTag('teaser', image_filename, 'subcategory')
         writeDataTag('type', '"' + data_row[5] + '"')
         writeDataTag('date', data_row[6])
         writeDataTag('venue', '"' + data_row[7] + '"')
         writeDataTag('location', '"' + data_row[8] + '"')
-        writeDataTag('permalink', '/' + collection + '/' + file_name)
         
         if data_row[3] == 'publications' or data_row[4] == 'statement':
                 writeDataTag('paperurl', '"http://daslerpc.github.io/files/' + file_name + '.pdf"')

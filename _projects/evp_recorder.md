@@ -4,8 +4,7 @@ excerpt: "This will be a short description of the project."
 collection: projects
 subcategory: concept
 header: 
-  teaser: projects/evp_recorder.png
-permalink: /projects/evp_recorder
+  teaser: /assets/images/projects/evp_recorder.png
 ---
 
 PAGE_TEMPLATE_GOES_HERE
