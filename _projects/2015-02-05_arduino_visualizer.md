@@ -4,9 +4,9 @@ excerpt: "A program built in Processing for visualizing the analog and digital i
 collection: projects
 subcategory: complete
 header: 
-  teaser: projects/2015-02-05_arduino_visualizer.png
+  teaser: /assets/images/projects/2015-02-05_arduino_visualizer.png
 date: 2015-02-05
-permalink: /projects/2015-02-05_arduino_visualizer
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE

@@ -4,9 +4,9 @@ excerpt: "A project covering various methods for validating temporal queries, an
 collection: projects
 subcategory: complete
 header: 
-  teaser: projects/2013-05-01_interval_queries.png
+  teaser: /assets/images/projects/2013-05-01_interval_queries.png
 date: 2013-05-01
-permalink: /projects/2013-05-01_interval_queries
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE

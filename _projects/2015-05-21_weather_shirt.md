@@ -6,7 +6,7 @@ subcategory: complete
 header: 
   teaser: projects/2015-05-21_weather_shirt.png
 date: 2015-05-21
-permalink: /projects/2015-05-21_weather_shirt
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE

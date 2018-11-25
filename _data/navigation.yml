@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Publications"
+    url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Puzzles"
+    url: /puzzles/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

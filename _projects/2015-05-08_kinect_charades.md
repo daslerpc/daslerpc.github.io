@@ -4,9 +4,9 @@ excerpt: "A game of charades in which one partner acts as a puppet and the other
 collection: projects
 subcategory: complete
 header: 
-  teaser: projects/2015-05-08_kinect_charades.png
+  teaser: /assets/images/projects/2015-05-08_kinect_charades.png
 date: 2015-05-08
-permalink: /projects/2015-05-08_kinect_charades
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE

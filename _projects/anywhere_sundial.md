@@ -4,8 +4,8 @@ excerpt: "A handheld sundial which orients itself to display the right time no m
 collection: projects
 subcategory: concept
 header: 
-  teaser: projects/anywhere_sundial.png
-permalink: /projects/anywhere_sundial
+  teaser: /assets/images/projects/anywhere_sundial.png
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE

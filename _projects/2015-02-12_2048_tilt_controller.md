@@ -4,9 +4,9 @@ excerpt: "A motion sensitive controller for the game 2048, built into a calculat
 collection: projects
 subcategory: complete
 header: 
-  teaser: projects/2015-02-12_2048_tilt_controller.png
+  teaser: /assets/images/projects/2015-02-12_2048_tilt_controller.png
 date: 2015-02-12
-permalink: /projects/2015-02-12_2048_tilt_controller
+
 ---
 
 PAGE_TEMPLATE_GOES_HERE
