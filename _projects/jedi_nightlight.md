@@ -1,6 +1,6 @@
 ---
-title: "Jedi holocron nightlight"
-excerpt: "3D-printed nightlight that activates when it's turned upside down."
+title: "Jedi Holocron Nightlight"
+excerpt: "3D printed nightlight cube activated by flipping the cube upside down"
 header:
   image: 
   teaser: /assets/images/jedi_nightlight.jpg
