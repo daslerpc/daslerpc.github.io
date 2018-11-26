@@ -14,6 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-An mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment.
+A mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment.
 
 This will be a short description of the project.
