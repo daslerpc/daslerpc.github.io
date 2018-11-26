@@ -11,7 +11,6 @@ date: 2015-05-22
 An interactive 3D printed nighlight that reveals a hidden pattern when turned over.
 
 
-
 The 3D model (created in 123D Design) for this project can be found on [Thingiverse](http://www.google.com).
 
 Instructions for building this light can be found at [Instructables](http://www.google.com).
@@ -31,8 +30,9 @@ A circuit consisting mainly of a tilt switch and four LEDs is all there is to th
 
 
 ## Materials and Parts
-| Part |  The Part's Role |  Count  |  Cost  |  Total Cost  |
-|---|---|---|---|---|
+
+ Part |  The Part's Role |  Count  |  Cost  |  Total Cost  
+-----|-----|-----|-----|-----
 3D Printing Filament, PLA | Used for printing the case of the nightlight | 132 | $0.20/gram | $26.40
 [LEDs](https://eu.mouser.com/ProductDetail/Cree-Inc/C503D-WAN-CCbEb151/?qs=%2fha2pyFaduioseTUwega4f7QNFIxkmiPpTYJtecMwRYMRUl7rUkX86TpIVdXPQIk) | For the light part of "nightlight" | 4 | $0.24 | $0.92
 [Tilt Switch](http://www.mouser.com/ProductDetail/E-Switch/TM1000/?qs=sGAEpiMZZMtCWdKUURnHj1%252bkvdiUuPvDlfB2tFt2oBI%3d) | Activates nightlight. | 1 | $1.25 | $1.25
@@ -59,7 +59,7 @@ Using a ball bearing based tilt switch for this project was probably a mistake. 
 
 
 ## Brainstorming
-Part of the goal of this project was to go through the design exercise of rapid fire brainstorming.  Rather than trying to pick one perfect idea and do a deep dive on it, I instead focused on coming up with many different designs from which I could choose or draw inspiration from. My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas included a simple parabolic reflector (what is essentially the business end of a flashlight, a lightbulb shaped nightlight, and a lighthouse.
+Part of the goal of this project was to go through the design exercise of rapid-fire brainstorming.  Rather than trying to pick one perfect idea and do a deep dive on it, I instead focused on coming up with many different designs from which I could choose or draw inspiration from. My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas included a simple parabolic reflector (what is essentially the business end of a flashlight), a lightbulb shaped nightlight, and a lighthouse.
 
 Continuing my inspiration from familiar light sources while straying slightly more into the whimsical are the UFO and Plumbob nightlights. The UFO just seemed like a cute idea for something that would glow with an internal light. The Plumbob is an object from The Sims, a video game about managing the life and happiness of simulated people. In this game the Plumbob hovers above characters' heads, slowly spinning and changing color to reflect their moods. This light would spin and change colors at random, although it did occur to me that one could integrate it with a system that would monitor a Twitter feed, perform some simple sentiment analysis, and change the lights color to reflect one's mood. This was beyond the scope of this project, but seemed like a neat idea.
 
@@ -75,7 +75,7 @@ Finally, I thought that maybe I would combine several aspects of previous ideas.
 
 ## Thoughts about Project
 Sketching out ideas first was great. I found it very helpful to have this semi-guided exercise.
-3D printing is a lot of fun. It's still crazy to me that something that exists purely in my brain can exist in the real world within a day.
+3D printing is a lot of fun. It's still crazy to me that a relatively complex object that exists purely in my brain can exist in the real world within a day.
 
 
 ## References
