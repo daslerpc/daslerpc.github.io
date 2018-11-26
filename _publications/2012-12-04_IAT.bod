@@ -1,1 +1,5 @@
-Paper description goes here.
+## Abstract
+We study complex non-zero-sum iterated two-player games, more specifically, various strategies and their performances in iterated traveler’s dilemma (ITD). We focus on the relative performances of several types of parameterized strategies, where each such strategy type corresponds to a particular "philosophy" on how to best predict opponent’s future behavior and/or entice the opponent to alter its behavior. We are particularly interested in adaptable, learning and/or evolving strategies that try to predict the future behavior of the other player in order to optimize their own behavior in the long run. We also study strategies that strive to minimize risk, as risk minimization has been recently suggested to be the appropriate paradigm for ITD and other complex games that have posed difficulties to classical game theory. We share the key insights from an elaborate round-robin tournament that we have implemented and analyzed. We draw some conclusions on what kinds of adaptability and models of the other player’s behavior seem to be most effective in the long run. Lastly, we indicate some promising ways forward toward a better understanding of learning how to play complex iterated games well.
+
+## Keywords
+game theory; iterated traveler’s dilemma

@@ -1,1 +1,5 @@
-Paper description goes here.
+## Abstract
+We study the iterated version of the Travelers Dilemma (TD). TD is a two-player, non-zero sum game that offers plenty of incentives for cooperation. Our goal is to gain deeper understanding of iterated two-player games whose structures are far from zero-sum. Our experimental study and analysis of Iterated TD is based on a round-robin tournament we have recently designed, implemented and analyzed. This tournament involves 38 distinct participating strategies, and is motivated by the seminal work by Axelrod et al. on Iterated Prisoners Dilemma. We first motivate and define the strategies competing in our tournament, followed by a summary of the tournament results with respect to individual strategies. We then extend the performance comparison-and-contrast of individual strategies in the tournament, and carefully analyze how groups of closely related strategies perform when each such group is viewed as a "team". We draw some interesting lessons from the analyses of individual and team performances, and outline some promising directions for future work.
+
+## Keywords
+algorithmic game theory, economic models of individual rationality, strategic multi-agent encounters, non-zero-sum two-player games, iterated games, tournaments, performance analysis

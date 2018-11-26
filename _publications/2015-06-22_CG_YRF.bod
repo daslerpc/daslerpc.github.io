@@ -1,1 +1,2 @@
-Paper description goes here.
+## Abstract
+_2048_ is a single-player online puzzle game that went viral in March 2014. The game is played on a 4x4 board by sliding around and merging equal valued tiles to create tiles of higher value. The player wins by creating the 2048 valued tile, hence the name. We study the complexity of a slightly adapted version and prove that a number of natural decision problems turn out to be NP-Complete. We reduce from 3SAT and implement our reduction as an online game.

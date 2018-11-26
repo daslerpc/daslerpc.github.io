@@ -1,12 +1,2 @@
 ## Abstract
-We introduce a variant of the well-known minimum-cost circulation problem in
-directed networks, where vertex demand values are taken from the integers modulo λ,
-for some integer λ ≥ 2. More formally, given a directed network G = (V, E), each
-of whose edges is associated with a weight and each of whose vertices is associated
-with a demand taken over the integers modulo λ, the objective is to compute a flow
-of minimum weight that satisfies all the vertex demands modulo λ. This problem is
-motivated by a problem of computing a periodic schedule for traffic lights in an urban
-transportation network that minimizes the total delay time of vehicles. We show that
-this modular circulation problem is solvable in polynomial time when λ = 2 and that
-the problem is NP-hard when λ = 3. We also present a polynomial time algorithm
-that achieves a 4(λ − 1)-approximation.
+We introduce a variant of the well-known minimum-cost circulation problem in directed networks, where vertex demand values are taken from the integers modulo λ, for some integer λ ≥ 2. More formally, given a directed network G = (V, E), each of whose edges is associated with a weight and each of whose vertices is associated with a demand taken over the integers modulo λ, the objective is to compute a flow of minimum weight that satisfies all the vertex demands modulo λ. This problem is motivated by a problem of computing a periodic schedule for traffic lights in an urban transportation network that minimizes the total delay time of vehicles. We show that this modular circulation problem is solvable in polynomial time when λ = 2 and that the problem is NP-hard when λ = 3. We also present a polynomial time algorithm that achieves a 4(λ − 1)-approximation.
