@@ -1,26 +1,27 @@
 Title,file_name,collection,subcategory,type,date,venue,location,citation,excerpt
-Validating Complex Interval-Based Temporal Queries Over Streams,interval_queries,projects,complete,,2013-05-01,,,,Excerpt
-"When Life Gives You Lemons, Plan to Open a Lemonade Stand!",lemonade_stand,projects,complete,,2012-05-01,,,,Excerpt
-Kinect Air Guitar,kinect_air_guitar,projects,complete,,2011-05-01,,,,Excerpt
-Jedi Nightlight,jedi_nightlight,projects,complete,,2015-05-22,,,,Excerpt
-Kinect Charades,kinect_charades,projects,complete,,2015-05-08,,,,Excerpt
-Weather Reporting Shirt,weather_shirt,projects,complete,,2015-05-21,,,,Excerpt
-Game of Simon Toy Hack,simon_hack,projects,complete,,2015-05-19,,,,Excerpt
-The Anywhere Sundial,anywhere_sundial,projects,concept,,,,,,Excerpt
+Validating Complex Interval-Based Temporal Queries Over Streams,interval_queries,projects,complete,,2013-05-01,,,,An analysis of range queries in a temporal database and the efficacy/efficiency of validating such queries.
+"When Life Gives You Lemons, Plan to Open a Lemonade Stand!",lemonade_stand,projects,complete,,2012-05-01,,,,"Creating advanced game-playing agents for the Lemonade Stand Game, an annual competition run by Yahoo! Labs's Martin Zinkevich."
+Kinect Air Guitar,kinect_air_guitar,projects,complete,,2011-05-01,,,,An air guitar that actually plays music using the Microsoft Kinect.
+Jedi Nightlight,jedi_nightlight,projects,complete,,2015-05-22,,,,An interactive 3D printed nighlight that reveals a hidden pattern when turned over.
+Kinect Charades,kinect_charades,projects,complete,,2015-05-08,,,,A game of hidden charades in which the guesser must determine the unseen performer's pose through wearable tactile feedback.
+Weather Reporting Shirt,weather_shirt,projects,complete,,2015-05-21,,,,"A shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread."
+Game of Simon Toy Hack,simon_hack,projects,complete,,2015-05-19,,,,Repurposing a simple children's toy into a more advanced game of memory and reflexes.
+The Anywhere Sundial,anywhere_sundial,projects,concept,,,,,,A handheld sundial which orients itself to display the right time no matter where on Earth you are.
 EVP Recorder,evp_recorder,projects,concept,,,,,,Excerpt
-2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,,Excerpt
-Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,,Excerpt
-City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,Excerpt
-Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,Excerpt
+2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,,"A motion sensitive controller for the game 2048, built into a calculator."
+Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,,A debug tool built in Processing for visualizing the analog and digital inputs of an Arduino.
+City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,An interactive installation with a stylized city skyline that reacts to the wind.
+Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,"An mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment."
 RFID Magic Wand,locurio_wand,projects,spoiler,,2015-04-25,,,,Excerpt
 LED Chameleon Costume,led_chameleon,projects,concept,,,,,,Excerpt
 TRIAGE Emergency Department Resource Allocation Tool,triage,projects,complete,,2012-11-30,,,,Excerpt
 The Xbox Puzzle,famine_xbox,puzzles,contributed,,,,,,Excerpt
 Paper Dolls,paper_dolls,puzzles,authored,,,,,,Excerpt
 Minotaur's Labyrinth,minotairs_labyrinth,puzzles,authored,,,,,,Excerpt
-Lego Music Box,lego_musicbox,projects,complete,,2000-06-01,,,,Excerpt
-Locurio,locurio,puzzles,event,,,,,,Excerpt
-The Famine Game,famine_game,puzzles,event,,,,,,Excerpt
+Lego Music Box,lego_musicbox,projects,complete,,2000-06-01,,,,A Lego Mindstorms music box with interchangable music discs.
+Locurio,locurio,puzzles,event,,,,,,"Locurio is an immersive interactive entertainment company that I cofounded whose debut experience, an escape room called The Vanished Act, has led to multiple awards and quickly distinguished Locurio as the #1 escape room company in Seattle."
+DASH - Different Area Same Hunt,dash,puzzles,event,,,,,,"An annual puzzle hunt run simultaneously in multiple cities throughout the world.  I helped found and host the inaugural DASH hunt, though it has grown significantly since my participation."
+The Famine Game,famine_game,puzzles,event,,,,,,"A weekend long puzzle hunt marathon I coproduced.  Taking 18 months of work to create, it lead almost 150 puzzle enthusiasts all over the Washington D.C. area in a 36 hour race."
 The Iterated Traveler's Dilemma: Finding Good Strategies in Games with 'Bad' Structure,EUMAS,publications,conference,,2010-12-16,Proceedings of the Eighth European Workshop on Multi-Agent Systems (EUMAS),,,Excerpt
 Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma,FCS,publications,conference,,2011-07-18,Proceedings of the International Conference on Foundations of Computer Science (FCS),,,Excerpt
 How To Play Well in Non-Zero Sum Games: Some Lessons from the Generalized Traveler's Dilemma,AMT,publications,conference,,2011-09-07,Proceedings of the 2011 International Conference on Active Media Technology (AMT),,,Excerpt
@@ -46,9 +47,9 @@ Object-Oriented Programming II - Java (Spring 2012),OOP2_UMD,teaching,undergradu
 Object-Oriented Programming I - Java (Fall 2011),OOP1_UMD,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2011-09-01,"The University of Maryland, Computer Science Department","College Park, MD",,Excerpt
 "Intermediate Fencing: Foil, Epee, Saber (Fall 2004 - Fall 2005)",Fencing2_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-09-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
 Beginning Fencing: Foil (Spring 2004 -Fall 2005),Fencing1_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2004-04-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
-Basic Scuba Diving (Fall 2003 - Spring 2004),Scuba_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2003-09-01,"The University of Texas, Kinesiology Department","Austin, TX",,Excerpt
-Computer Science II (Fall 1999 - Spring 2000),CS2_CLHS,teaching,high_school,"High School course, Teaching Assistant",1999-09-01,Clear Lake High School,"Houston, TX",,Excerpt
-Computer Science I (Fall 1998 - Spring 2000),CS1_CLHS,teaching,high_school,"High School course, Teaching Assistant",1998-09-01,Clear Lake High School,"Houston, TX",,Excerpt
-Computer Science I (Spring 1999),CST_CLHS,teaching,high_school,"High School course, Private Tutor",1999-04-01,Clear Lake High School,"Houston, TX",,Excerpt
-Teaching at the Collegiate Level (Spring 2014),teaching_collegiate,teaching,training,Training course,2014-04-01,"The University of Maryland, Teaching and Learning Center","College Park, MD",,Excerpt
-My Teaching Statement,teaching_statement,teaching,statement,,,,,,Excerpt
+Basic Scuba Diving (Fall 2003 - Spring 2004),Scuba_UT,teaching,undergraduate,"Undergraduate course, Teaching Assistant",2003-09-01,"The University of Texas, Kinesiology Department","Austin, TX",,"An introductory Scuba diving course.  As a TA it was my responability to act as a safety diver, to answer student questions, and to oversee equipment maintenance. "
+Computer Science II (Fall 1999 - Spring 2000),CS2_CLHS,teaching,high_school,"High School course, Teaching Assistant",1999-09-01,Clear Lake High School,"Houston, TX",,An intermediate course on Object Oriented Programming in C++.
+Computer Science I (Fall 1998 - Spring 2000),CS1_CLHS,teaching,high_school,"High School course, Teaching Assistant",1998-09-01,Clear Lake High School,"Houston, TX",,An introductory course on Object Oriented Programming in C++.  
+Computer Science I (Spring 1999),CST_CLHS,teaching,high_school,"High School course, Private Tutor",1999-04-01,Clear Lake High School,"Houston, TX",,"I was a private tutor for one semester, focusing on Object Oriented Programming in C++."
+Teaching at the Collegiate Level (Spring 2014),teaching_collegiate,teaching,training,Training course,2014-04-01,"The University of Maryland, Teaching and Learning Center","College Park, MD",,A multidisciplinary graduate level course on pedagogy and teaching undergraduate level courses.
+My Teaching Statement,teaching_statement,teaching,statement,,,,,,"Some thoughts on teaching in general, my particular style of teaching, and what I hope to accomplish each time I teach something."

@@ -8,7 +8,7 @@ date: 2015-05-21
 feature_row: 
   - image_path: /assets/images/projects/2015-05-21_weather_shirt.png
     title: "Weather Reporting Shirt"
-    excerpt: "Excerpt"
+    excerpt: "A shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread."
     url: "http://daslerpc.github.io/projects/2015-05-21_weather_shirt"
     btn_label: "Read More"
     btn_class: "btn--primary"

@@ -8,7 +8,7 @@ date: 2012-05-01
 feature_row: 
   - image_path: /assets/images/projects/2012-05-01_lemonade_stand.png
     title: "When Life Gives You Lemons, Plan to Open a Lemonade Stand!"
-    excerpt: "Excerpt"
+    excerpt: "Creating advanced game-playing agents for the Lemonade Stand Game, an annual competition run by Yahoo! Labs's Martin Zinkevich."
     url: "http://daslerpc.github.io/projects/2012-05-01_lemonade_stand"
     btn_label: "Read More"
     btn_class: "btn--primary"

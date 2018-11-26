@@ -8,7 +8,7 @@ date: 2015-05-08
 feature_row: 
   - image_path: /assets/images/projects/2015-05-08_kinect_charades.png
     title: "Kinect Charades"
-    excerpt: "Excerpt"
+    excerpt: "A game of hidden charades in which the guesser must determine the unseen performer's pose through wearable tactile feedback."
     url: "http://daslerpc.github.io/projects/2015-05-08_kinect_charades"
     btn_label: "Read More"
     btn_class: "btn--primary"

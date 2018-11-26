@@ -11,7 +11,7 @@ location: "College Park, MD"
 feature_row: 
   - image_path: /assets/images/teaching/2014-04-01_teaching_collegiate.png
     title: "Teaching at the Collegiate Level (Spring 2014)"
-    excerpt: "Excerpt"
+    excerpt: "A multidisciplinary graduate level course on pedagogy and teaching undergraduate level courses."
     url: "http://daslerpc.github.io/teaching/2014-04-01_teaching_collegiate"
     btn_label: "Read More"
     btn_class: "btn--primary"
