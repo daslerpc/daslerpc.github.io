@@ -17,3 +17,5 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+A multidisciplinary graduate level course on pedagogy and teaching undergraduate level courses.
+

@@ -14,3 +14,5 @@ feature_row:
 ---
 
 A handheld sundial which orients itself to display the right time no matter where on Earth you are.
+
+A handheld sundial which orients itself to display the right time no matter where on Earth you are.

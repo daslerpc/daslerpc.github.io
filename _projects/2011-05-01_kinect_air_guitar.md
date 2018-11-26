@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+An air guitar that actually plays music using the Microsoft Kinect.
+
 Playing an actual air guitar using the Microst Kinect.

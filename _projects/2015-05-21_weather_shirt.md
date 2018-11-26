@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+A shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread.
+
 A t-shirt that displays the current weather using a small screen, heat sensitive dye, and conductive thread.

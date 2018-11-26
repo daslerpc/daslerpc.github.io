@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+Repurposing a simple children's toy into a more advanced game of memory and reflexes.
+
 A simple children's toy torn down and rebuilt into an interactive game of Simon.

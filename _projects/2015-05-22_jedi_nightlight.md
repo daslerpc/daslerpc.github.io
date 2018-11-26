@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+An interactive 3D printed nighlight that reveals a hidden pattern when turned over.
+
 A 3D printed nightlight.  Turning it over turns it on and reveals hidden patterns embedded in the walls.

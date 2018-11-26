@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+Creating advanced game-playing agents for the Lemonade Stand Game, an annual competition run by Yahoo! Labs's Martin Zinkevich.
+
 An attempt to create advanced game-playing agents for the Lemonade Stand Game, an annual competition at the time, run by Yahoo! Labs' Martin Zinkevich.

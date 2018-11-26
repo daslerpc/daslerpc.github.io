@@ -13,4 +13,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+Excerpt
+
 This will be a short description of the project.

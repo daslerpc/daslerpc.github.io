@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+A debug tool built in Processing for visualizing the analog and digital inputs of an Arduino.
+
 A program built in Processing for visualizing the analog and digital inputs of an Arduino.

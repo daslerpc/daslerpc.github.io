@@ -15,3 +15,5 @@ feature_row:
 ---
 
 An interactive installation with a stylized city skyline that reacts to the wind.
+
+An interactive installation with a stylized city skyline that reacts to the wind.

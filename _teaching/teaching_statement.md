@@ -14,3 +14,5 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+Some thoughts on teaching in general, my particular style of teaching, and what I hope to accomplish each time I teach something.
+

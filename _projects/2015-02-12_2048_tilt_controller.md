@@ -15,3 +15,5 @@ feature_row:
 ---
 
 A motion sensitive controller for the game 2048, built into a calculator.
+
+A motion sensitive controller for the game 2048, built into a calculator.

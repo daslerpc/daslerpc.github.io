@@ -17,4 +17,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+Excerpt
+
 Talk description goes here.

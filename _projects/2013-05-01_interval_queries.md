@@ -14,4 +14,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+An analysis of range queries in a temporal database and the efficacy/efficiency of validating such queries.
+
 A project covering various methods for validating temporal queries, an implementation of a temporal database with range queries, and an experiment to determine the time costs of adding a validation step to query plans.

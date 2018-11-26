@@ -79,7 +79,8 @@ with open('project_list.csv', 'rU') as csvfile:
         writeProjectHeader(row)
         project_file.write('---\n')        
         project_file.write('\n')
-                
+        project_file.write(row[9])        
+        project_file.write('\n\n')
         project_body = open(filepath + '.bod')
         project_file.write(project_body.read())
 

@@ -15,3 +15,5 @@ feature_row:
 ---
 
 A Lego Mindstorms music box with interchangable music discs.
+
+A Lego Mindstorms music box with interchangable music discs.
