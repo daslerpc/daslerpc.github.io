@@ -4,6 +4,7 @@ layout: collection
 permalink: /projects/
 collection: projects
 classes: wide
+sort_by: title
 sort_order: reverse
 ---
 
