@@ -86,7 +86,7 @@ with open('project_list.csv', 'rU') as csvfile:
                 project_file.write('\n\n')
                 if row[2] == 'publications' or row[3] == 'statement':
                         project_file.write("\[[PDF](/assets/papers/" + file_name + ".pdf)\]")        
-                project_file.write('\n\n')
+                        project_file.write('\n\n')
                 project_body = open(filepath + '.bod')
                 project_file.write(project_body.read())
 
