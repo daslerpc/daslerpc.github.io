@@ -1,1 +1,9 @@
-Paper description goes here.
+## Abstract
+We study an interesting 2-player game known as the Iterated Traveler's Dilemma. The Traveler's Dilemma (TD) is a non-zero sum game in which each player has a large number of possible actions or moves. In the iterated context, this means many possible actions in each round and therefore an astronomic number of possible strategies overall.
+What makes Iterated TD particularly interesting is that its structure defies the usual prescriptions of classical game theory insofar as what
+constitutes "good" strategies. In particular, TD has a single Nash equilibrium (NE), yet that NE corresponds to a very low payoff for each individual player and essentially minimizes social welfare. We study possible ways of "playing well" from the standpoint of individual players, as well as the strategy pairs that maximize, not minimize, social welfare.
+We propose a number of possible strategies for ITD, from some trivial and rather "dumb" ones, to generalizations of Tit-for-Tat, well-known
+from extensive studies of the (iterated) Prisoner's Dilemma, to some relatively sophisticated strategies where an agent tries to non-trivially model the behavior of the other agent in order to respond better in the future rounds. We perform a thorough comparison of 36 different strategies overall via a round-robin, everyone-against-everyone tournament in the spirit of Axelrod's work on the Prisoner's Dilemma. We motivate the choices of strategies that comprise our tournament and then analyze the performance of various strategies. Finally, we draw some tentative conclusions and outline directions for the future work.
+
+## Keywords
+algorithmic game theory, two-player non-zero sum games, strategic behavior, Nash equilibria, round-robin tournaments

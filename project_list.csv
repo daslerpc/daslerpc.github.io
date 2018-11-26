@@ -10,10 +10,11 @@ The Anywhere Sundial,anywhere_sundial,projects,concept,,,,,,A handheld sundial w
 EVP Recorder,evp_recorder,projects,concept,,,,,,Excerpt
 2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,,"A motion sensitive controller for the game 2048, built into a calculator."
 Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,,A debug tool built in Processing for visualizing the analog and digital inputs of an Arduino.
-City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,An interactive installation with a stylized city skyline that reacts to the wind.
+City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,"An interactive installation with a stylized city skyline that reacts to the wind, blending low and high tech."
 Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,"A mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment."
 RFID Magic Wand,locurio_wand,projects,spoiler,,2015-04-25,,,,Excerpt
 LED Chameleon Costume,led_chameleon,projects,concept,,,,,,Excerpt
+Liminal Minecraft,liminal_minecraft,projects,concept,,,,,,Excerpt
 TRIAGE Emergency Department Resource Allocation Tool,triage,projects,complete,,2012-11-30,,,,Excerpt
 The Xbox Puzzle,famine_xbox,puzzles,contributed,,,,,,Excerpt
 Paper Dolls,paper_dolls,puzzles,authored,,,,,,Excerpt
@@ -22,7 +23,7 @@ Lego Music Box,lego_musicbox,projects,complete,,2000-06-01,,,,A Lego Mindstorms 
 Locurio,locurio,puzzles,event,,,,,,"Locurio is an immersive interactive entertainment company that I cofounded whose debut experience, an escape room called The Vanished Act, has led to multiple awards and quickly distinguished Locurio as the #1 escape room company in Seattle."
 DASH - Different Area Same Hunt,dash,puzzles,event,,,,,,"An annual puzzle hunt run simultaneously in multiple cities throughout the world.  I helped found and host the inaugural DASH hunt, though it has grown significantly since my participation."
 The Famine Game,famine_game,puzzles,event,,,,,,"A weekend long puzzle hunt marathon I coproduced.  Taking 18 months of work to create, it lead almost 150 puzzle enthusiasts all over the Washington D.C. area in a 36 hour race."
-The Iterated Traveler's Dilemma: Finding Good Strategies in Games with 'Bad' Structure,EUMAS,publications,conference,,2010-12-16,Proceedings of the Eighth European Workshop on Multi-Agent Systems (EUMAS),,,Excerpt
+The Iterated Traveler's Dilemma: Finding Good Strategies in Games with 'Bad' Structure,EUMAS,publications,conference,,2010-12-16,Proceedings of the Eighth European Workshop on Multi-Agent Systems (EUMAS),,,An experimental study of an interesting 2-player game known as the Iterated Traveler's Dilemma.
 Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma,FCS,publications,conference,,2011-07-18,Proceedings of the International Conference on Foundations of Computer Science (FCS),,,Excerpt
 How To Play Well in Non-Zero Sum Games: Some Lessons from the Generalized Traveler's Dilemma,AMT,publications,conference,,2011-09-07,Proceedings of the 2011 International Conference on Active Media Technology (AMT),,,Excerpt
 Iterated Traveler's Dilemma: Analysis of Individual and Team Performances and Challenges Ahead,EUMAS,publications,conference,,2011-11-14,Proceedings of the Ninth European Workshop on Multi-Agent Systems (EUMAS),,,Excerpt

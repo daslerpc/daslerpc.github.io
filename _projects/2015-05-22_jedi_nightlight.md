@@ -24,25 +24,17 @@ Instructions for building this light can be found at [Instructables](http://www.
 ## Overview
 This nightlight appears, at first, to be nothing but a simple cube. Written on one side is the word "Off" and on the other is, as one might expect, is the word "On". By turning the cube upside down, you activate the light inside and reveal the cubes secret!
 
-sw_off.jpg
-sw_lit2.jpg
+![alt text](/assets/images/projects/nightlight_off.png "Switched off")
+![alt text](/assets/images/projects/nightlight_on.png "Switched on!")
 
 Hidden within the cube are the emblems of four factions from the Star Wars universe. These emblems are inset on the inside faces of the four side panels of the cube, making the plastic thinner and allowing the light to shine through.
 
-sw_inside.jpg
+![alt text](/assets/images/projects/nightlight_inside.png "Under the hood")
 
 A circuit consisting mainly of a tilt switch and four LEDs is all there is to this simple nightlight.sw_mounted_circuit.jpg
 
 
 ## Materials and Parts
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 
  Part |  The Part's Role |  Count  |  Cost  |  Total Cost  
 -----|-----|-----|-----|-----
@@ -58,13 +50,12 @@ Screws | For closing up the box and securing the circuitry |  | $0.08 | $0.64
 
 Total Cost: $33.65
 
-starwars_nightlight_parts.png
+![alt text](/assets/images/projects/nightlight_parts.png "All the parts")
 
-##3D-Model and Electronic Schematic
-Screen Shot 2015-04-13 at 11.36.51 PM.png
-Screen Shot 2015-04-13 at 11.45.39 PM.png
-
-starwars_nightlight_schematic.png
+## 3D-Model and Electronic Schematic
+![alt text](/assets/images/projects/nightlight_model1.png "3D Model")
+![alt text](/assets/images/projects/nightlight_model2.png "3D Model")
+![alt text](/assets/images/projects/nightlight_schematic.png "The schematic")
 
 
 ## Challenges
@@ -74,34 +65,19 @@ Using a ball bearing based tilt switch for this project was probably a mistake. 
 
 
 ## Brainstorming
-My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas, falling into the pragmatic category, include what is essentially the business end of a flashlight, a lightbulb shaped nightlight, and a lighthouse.
+Part of the goal of this project was to go through the design exercise of rapid fire brainstorming.  Rather than trying to pick one perfect idea and do a deep dive on it, I instead focused on coming up with many different designs from which I could choose or draw inspiration from. My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas included a simple parabolic reflector (what is essentially the business end of a flashlight), a lightbulb shaped nightlight, and a lighthouse.
 
-sw_parabolic_idea.jpg
-sw_bulb_idea.jpg
-sw_lighthouse_idea.jpg
-
-Continuing my inspiration from familiar light sources while straying slightly more into the whimsical are the UFO and Plumbob nightlights. The UFO just seemed like a cute idea for something that would glow with an internal light. The Plumbob is an object from The Sims, a video game about managing the life and happiness of simulated people. In this game the Plumbob hovers above characters' heads, slowly spinning and changing color to reflect their moods. This light would spin and change colors at random, although it did occur to me that one could integrate it with a system that would monitor a Twitter feed, perform some simple sentiment analysis, and change the lights color to reflect one's mood. This was beyond the scope of this project, but seemed like a neat idea.
-
-sw_ufo_idea.jpg
-sw_bob_idea.jpg
+Continuing my inspiration from familiar light sources while straying slightly more into the whimsical are the UFO and Plumbob nightlights. The UFO just seemed like a cute idea for something that would glow with an internal light. The Plumbob is an object from The Sims, a video game about managing the life and happiness of simulated people. In this game the Plumbob hovers above characters' heads, slowly spinning and changing color to reflect their moods. This light would spin and change colors at random and could even monitor a Twitter feed, perform some simple sentiment analysis, and change the lights color to reflect one's mood. This added functionality was beyond the scope of this project, but seemed like a neat idea.
 
 I next extended the idea of motion in a nightlight to that of interaction. It occurred to me that if one were to wake up in the middle of the night it would be fairly difficult to turn on your nightlight. It's dark, you're groggy and disoriented, and you're quite possibly in the grips of terror as you try and figure out if that shape in the corner is your jacket on a chair or a ravenous beast of the night. Having to find a tiny switch on your nightlight should be the least of your worries. Given all of this, I came up with the [Weeble](https://www.youtube.com/watch?v=dFzhjnjXc2o) nightlight, inspired by the toy of the same name from the early 1970s which purports to wobble, yet not fall down. To activate the nightlight, you simply bat it to one side, it pops back up, and turns on.
 
-sw_weeble_idea.jpg
-
 Next I decided to try and push my ideas further into the realm of the whimsical. I wanted to try to incorporate another bit of playful interaction with this one. I began by thinking of sources of light that are well known, if not mainstream, and eventually hit upon the Eye of Sauron. To activate this nightlight, one would need to put on the One Ring, alerting Sauron to your presence and lighting up his giant, ever present eye. In the end, I decided that this may have been a little too whimsical and creating a model that would print well seemed like a nightmare.
-sw_sauron_idea.jpg
 
 I also wanted to consider some ideas that involved procedurally generating nightlights from interesting data. I wanted the data to be contextually relevant, dealing with sleep or the night. To that end, I came up with two ideas: a nightlight generated from one's sleep patterns and one generated from maps of the Moon.
 
 The first nightlight would simply use data gathered from a Fitbit, detailing periods of sleep, restlessness, and wakefulness to create a decorative pattern. The second one would use the albedo (or reflectiveness) of the Moon to control the thickness of the front plate of the nightlight. More reflective portions of the Moon would result in thinner sections and, with an LED placed behind the front plate, would result in more light getting through and a brighter spot on the nightlight.
 
-sw_fitbit_idea.jpg
-sw_moon_idea.jpg
-
 Finally, I thought that maybe I would combine several aspects of previous ideas. My final design has a little bit of interaction in the form of a switch that requires more than pushing a button. It's practical, in the sense that it is a very simple shape, making it easy to model and print. Also, there is a little bit of whimsy as the nightlight appears to be a boring cube at first, but houses a surprise: as the light turns on a hidden pattern is revealed.
-
-sw_cube_idea.jpg
 
 ## Thoughts about Project
 
