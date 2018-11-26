@@ -20,7 +20,7 @@
 
 .archive__item {
   position: relative;
-  height: 150px;
+  height: 125px;
 }
 
 .archive__subtitle {
@@ -83,8 +83,6 @@
   position: absolute;
   border-radius: $border-radius;
   overflow: hidden;
-  top: 50%;
-  transform: translateY(-50%);
   left: 0;
 
   img {
