@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/puzzles/famine_xbox.png
 ---
 
-Excerpt
+A puzzle for The Famine Game which garnered some fame on YouTube and Reddit.
 
 
 

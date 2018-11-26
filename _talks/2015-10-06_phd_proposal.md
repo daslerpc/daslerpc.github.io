@@ -11,7 +11,7 @@ venue: "Department of Computer Science"
 location: "The University of Maryland, College Park, MD"
 ---
 
-Excerpt
+A departmental talk describing my prior work on autonomous vehicles at an unregulated traffic crossing and a proposal for future work.  Delivered as part of my PhD candidacy proposal.
 
 
 

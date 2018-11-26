@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/puzzles/paper_dolls.png
 ---
 
-Excerpt
+Help the lovely ladies at the Paper Dolls Saloon after a wild night has left the place in shambles.  Written for the inaugural DASH.
 
 
 

@@ -11,7 +11,7 @@ venue: "Department of Computer Science"
 location: "The University of Houston, Houston, TX"
 ---
 
-Excerpt
+A departmental talk describing the Iterated Traveler's Dilemma and an experimental analysis of the performance of several strategy types.
 
 
 

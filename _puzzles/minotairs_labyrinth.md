@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/puzzles/minotairs_labyrinth.png
 ---
 
-Excerpt
+Navigate the labyrinth and help Theseus defeat the minotaur.  This puzzle was written for The Gauntlet, an annual gaming charity event.
 
 
 

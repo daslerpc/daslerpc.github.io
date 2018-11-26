@@ -8,7 +8,7 @@ header:
 date: 2015-04-25
 ---
 
-Excerpt
+A magic wand with an RFID tag in the tip, used to interact with a series of devices in an IoT environment.
 
 
 
