@@ -11,7 +11,7 @@ EVP Recorder,evp_recorder,projects,concept,,,,,,Excerpt
 2048 Tilt Controller,2048_tilt_controller,projects,complete,,2015-02-12,,,,"A motion sensitive controller for the game 2048, built into a calculator."
 Arduino Data Visualizer,arduino_visualizer,projects,complete,,2015-02-05,,,,A debug tool built in Processing for visualizing the analog and digital inputs of an Arduino.
 City Lights from Windmills,city_lights,projects,complete,,2015-03-06,,,,An interactive installation with a stylized city skyline that reacts to the wind.
-Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,"An mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment."
+Capacitive Mailbox Combination Lock,locurio_mailbox,projects,spoiler,,2017-08-18,,,,"A mailbox which only opens when the correct sequence of letters is touched on its side.  Installed as a puzzle challenge in an escape room, it exists in a fully connected IoT environment."
 RFID Magic Wand,locurio_wand,projects,spoiler,,2015-04-25,,,,Excerpt
 LED Chameleon Costume,led_chameleon,projects,concept,,,,,,Excerpt
 TRIAGE Emergency Department Resource Allocation Tool,triage,projects,complete,,2012-11-30,,,,Excerpt
