@@ -27,6 +27,7 @@ def writeProjectHeader(data_row):
         writeDataTag('title', '"' + data_row[0] + '"')
         writeDataTag('collection', data_row[2])
         writeDataTag('subcategory', data_row[3])
+        writeDataTag('classes', 'wide')
         writeDataTag('header','', 'category')
         writeDataTag('teaser', image_filename, 'subcategory')
         writeDataTag('type', '"' + data_row[4] + '"')
