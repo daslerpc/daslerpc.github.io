@@ -5,6 +5,7 @@ subcategory: complete
 header: 
   teaser: /assets/images/projects/2015-05-22_jedi_nightlight.png
 date: 2015-05-22
+classes: wide
 feature_row: 
   - image_path: /assets/images/projects/2015-05-22_jedi_nightlight.png
     title: "Jedi Nightlight"
@@ -17,6 +18,7 @@ feature_row:
 An interactive 3D printed nighlight that reveals a hidden pattern when turned over.
 
 The 3D model (created in 123D Design) for this project can be found on [Thingiverse](http://www.google.com).
+
 Instructions for building this light can be found at [Instructables](http://www.google.com).
 
 ## Overview
@@ -29,8 +31,8 @@ A simple circuit consisting mainly of a tilt switch and four LEDs is all there i
 
 
 ## Materials and Parts
-| Part |  The Part's Role |  Count  |  Cost  |  Total Cost  |
-|---|---|---|---|---|
+ Part |  The Part's Role |  Count  |  Cost  |  Total Cost  
+-----|-----|-----|-----|-----
 3D Printing Filament, PLA | Used for printing the case of the nightlight | 132 | $0.20/gram | $26.40
 [LEDs](https://eu.mouser.com/ProductDetail/Cree-Inc/C503D-WAN-CCbEb151/?qs=%2fha2pyFaduioseTUwega4f7QNFIxkmiPpTYJtecMwRYMRUl7rUkX86TpIVdXPQIk) | For the light part of "nightlight" | 4 | $0.24 | $0.92
 [Tilt Switch](http://www.mouser.com/ProductDetail/E-Switch/TM1000/?qs=sGAEpiMZZMtCWdKUURnHj1%252bkvdiUuPvDlfB2tFt2oBI%3d) | Activates nightlight. | 1 | $1.25 | $1.25
@@ -40,7 +42,8 @@ Battery Connector | For connecting power to the circuit | 1 | $1.25 | $1.25
 9v Battery | Powers the LEDs | 1 | $1.95 | $1.95
 Hook up wires | Used to hook everything up | 4 | $0.05 | $0.20
 Screws | For closing up the box and securing the circuitry |  | $0.08 | $0.64
-||||Total Cost:|$33.65|
+
+Total Cost: $33.65
 
 starwars_nightlight_parts.png
 
