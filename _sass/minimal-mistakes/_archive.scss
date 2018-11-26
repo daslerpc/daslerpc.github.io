@@ -36,7 +36,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  margin-left: 150px;
+  margin-left: 175px;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
@@ -66,7 +66,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  margin-left: 150px;
+  margin-left: 175px;
   font-size: $type-size-6;
 
   & + p {
@@ -124,6 +124,7 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+    height: 150px;
   }
 }
 

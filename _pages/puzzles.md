@@ -3,7 +3,6 @@ title: Puzzles
 layout: collection
 permalink: /puzzles/
 collection: puzzles
-entries_layout: grid
 classes: wide
 ---
 
