@@ -68,23 +68,25 @@ with open('project_list.csv', 'rU') as csvfile:
         collection = row[2]
         date = row[5]
 
-        if not date == '':
-                file_name = date + '_' + file_name
+        # filter subcategories
+        if not row[3] == 'concept':
+                if not date == '':
+                        file_name = date + '_' + file_name
 
-        filepath = '_' + collection + '/' + file_name
-        
-        project_file = open(filepath + '.md', 'w')
+                filepath = '_' + collection + '/' + file_name
+                
+                project_file = open(filepath + '.md', 'w')
 
-        project_file.write('---\n')
-        writeProjectHeader(row)
-        project_file.write('---\n')        
-        project_file.write('\n')
-        project_file.write(row[9])        
-        project_file.write('\n\n')
-        project_body = open(filepath + '.bod')
-        project_file.write(project_body.read())
+                project_file.write('---\n')
+                writeProjectHeader(row)
+                project_file.write('---\n')        
+                project_file.write('\n')
+                project_file.write(row[9])        
+                project_file.write('\n\n')
+                project_body = open(filepath + '.bod')
+                project_file.write(project_body.read())
 
-        project_file.close()
+                project_file.close()
         
     csvfile.close()
 
