@@ -1,7 +1,7 @@
 ---
 title: "Playing Challenging Iterated Two-Person Games Well: A Case Study on The Iterated Traveler's Dilemma"
 collection: talks
-subcategory: department
+category: department
 classes: wide
 header: 
   teaser: /assets/images/talks/2011-08-10_masters_defense.png
@@ -12,7 +12,5 @@ location: "The University of Houston, Houston, TX"
 ---
 
 A departmental talk describing the Iterated Traveler's Dilemma and an experimental analysis of the performance of several strategy types.
-
-
 
 Talk description goes here.

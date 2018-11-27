@@ -292,7 +292,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: talks
+      type: teaching
     values: 
       layout: single
       author_profile: true

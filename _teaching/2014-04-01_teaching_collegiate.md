@@ -1,7 +1,7 @@
 ---
 title: "Teaching at the Collegiate Level (Spring 2014)"
 collection: teaching
-subcategory: training
+category: training
 classes: wide
 header: 
   teaser: /assets/images/teaching/2014-04-01_teaching_collegiate.png
@@ -12,6 +12,4 @@ location: "College Park, MD"
 ---
 
 A multidisciplinary graduate level course on pedagogy and teaching undergraduate level courses.
-
-
 

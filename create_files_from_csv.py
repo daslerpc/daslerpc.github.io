@@ -7,10 +7,10 @@ from shutil import copyfile
 Py_version = 'Python_3'
 
 def writeDataTag( tag_name, tag_data, special_type='None' ):
-        if special_type == 'category':
+        if special_type == 'parent':
                 project_file.write(tag_name + ': \n')
         elif not tag_data == '""' and not tag_data == '':
-                if special_type == 'subcategory':
+                if special_type == 'child':
                         tag_name = '  ' + tag_name
                 project_file.write(tag_name + ': ' + tag_data + '\n')
                 
@@ -26,10 +26,10 @@ def writeProjectHeader(data_row):
                 
         writeDataTag('title', '"' + data_row[0] + '"')
         writeDataTag('collection', data_row[2])
-        writeDataTag('subcategory', data_row[3])
+        writeDataTag('category', data_row[3])
         writeDataTag('classes', 'wide')
-        writeDataTag('header','', 'category')
-        writeDataTag('teaser', image_filename, 'subcategory')
+        writeDataTag('header','', 'parent')
+        writeDataTag('teaser', image_filename, 'child')
         writeDataTag('type', '"' + data_row[4] + '"')
         writeDataTag('date', data_row[5])
         writeDataTag('venue', '"' + data_row[6] + '"')
@@ -38,13 +38,13 @@ def writeProjectHeader(data_row):
         if data_row[2] == 'publications' or data_row[3] == 'statement':
                 writeDataTag('paperurl', '"http://daslerpc.github.io/assets/papers/' + file_name + '.pdf"')
 
-##        writeDataTag('feature_row', '', 'category')
-##        writeDataTag('- image_path', image_filename, 'subcategory')
-##        writeDataTag('  title', '"'+data_row[0]+'"', 'subcategory')
-##        writeDataTag('  excerpt', '"'+data_row[9]+'"', 'subcategory')
-##        writeDataTag('  url', '"http://daslerpc.github.io/'+collection+'/'+ file_name +'"' ,'subcategory')
-##        writeDataTag('  btn_label','"Read More"', 'subcategory')
-##        writeDataTag('  btn_class','"btn--primary"', 'subcategory')
+##        writeDataTag('feature_row', '', 'parent')
+##        writeDataTag('- image_path', image_filename, 'child')
+##        writeDataTag('  title', '"'+data_row[0]+'"', 'child')
+##        writeDataTag('  excerpt', '"'+data_row[9]+'"', 'child')
+##        writeDataTag('  url', '"http://daslerpc.github.io/'+collection+'/'+ file_name +'"' ,'child')
+##        writeDataTag('  btn_label','"Read More"', 'child')
+##        writeDataTag('  btn_class','"btn--primary"', 'child')
                 
         writeDataTag('citation', '"' + data_row[8] + '"')
 

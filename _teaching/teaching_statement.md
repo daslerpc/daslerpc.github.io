@@ -1,7 +1,7 @@
 ---
 title: "My Teaching Statement"
 collection: teaching
-subcategory: statement
+category: statement
 classes: wide
 header: 
   teaser: /assets/images/teaching/teaching_statement.png

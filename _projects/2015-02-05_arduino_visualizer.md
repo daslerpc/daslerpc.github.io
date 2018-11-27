@@ -1,7 +1,7 @@
 ---
 title: "Arduino Data Visualizer"
 collection: projects
-subcategory: complete
+category: complete
 classes: wide
 header: 
   teaser: /assets/images/projects/2015-02-05_arduino_visualizer.png

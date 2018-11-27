@@ -1,7 +1,7 @@
 ---
 title: "City Lights from Windmills"
 collection: projects
-subcategory: complete
+category: complete
 classes: wide
 header: 
   teaser: /assets/images/projects/2015-03-06_city_lights.png
@@ -9,8 +9,6 @@ date: 2015-03-06
 ---
 
 An interactive installation with a stylized city skyline that reacts to the wind, blending low and high tech.
-
-
 
 Seokbin Kang, The University of Maryland, College Park
 Philip Dasler, The University of Maryland, College Park

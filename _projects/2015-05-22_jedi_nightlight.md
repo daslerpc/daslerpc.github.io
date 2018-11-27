@@ -1,7 +1,7 @@
 ---
 title: "Jedi Nightlight"
 collection: projects
-subcategory: complete
+category: complete
 classes: wide
 header: 
   teaser: /assets/images/projects/2015-05-22_jedi_nightlight.png
@@ -9,7 +9,6 @@ date: 2015-05-22
 ---
 
 An interactive 3D printed nighlight that reveals a hidden pattern when turned over.
-
 
 The 3D model (created in 123D Design) for this project can be found on [Thingiverse](http://www.google.com).
 
