@@ -6,14 +6,16 @@ Instructions for building this light can be found at [Instructables](http://www.
 This nightlight appears, at first, to be nothing but a simple cube. Written on one side is the word "Off" and on the other is, as one might expect, is the word "On". By turning the cube upside down, you activate the light inside and reveal the cubes secret!
 
 
-![alt text](/assets/images/projects/nightlight_off.png "Switched off")
-![alt text](/assets/images/projects/nightlight_on.png "Switched on!")
+![An image failed to load. This should be an image of the nightlight turned off.](/assets/images/projects/nightlight_off.png "Switched off")
 
-Hidden within the cube are the emblems of four factions from the Star Wars universe. These emblems are inset on the inside faces of the four side panels of the cube, making the plastic thinner and allowing the light to shine through.sw_inside.jpg
+![An image failed to load. This should be an image of the nightlight turned on.](/assets/images/projects/nightlight_on.png "Switched on!")
 
-![alt text](/assets/images/projects/nightlight_inside.png "Under the hood")
+Hidden within the cube are the emblems of four factions from the Star Wars universe. These emblems are inset on the inside faces of the four side panels of the cube, making the plastic thinner and allowing the light to shine through.
 
-A circuit consisting mainly of a tilt switch and four LEDs is all there is to this simple nightlight.sw_mounted_circuit.jpg
+![An image failed to load. This should be an image of the electronics.](/assets/images/projects/nightlight_inside.png "Under the hood")
+
+A circuit consisting mainly of a tilt switch and four LEDs is all there is to this simple nightlight.
+
 
 
 ## Materials and Parts
@@ -32,12 +34,14 @@ Screws | For closing up the box and securing the circuitry |  | $0.08 | $0.64
 
 Total Cost: $33.65
 
-![alt text](/assets/images/projects/nightlight_parts.png "All the parts")
+![An image failed to load. This should be an image of all of the nightlight's parts together.](/assets/images/projects/nightlight_parts.png "All the parts")
 
 ## 3D-Model and Electronic Schematic
-![alt text](/assets/images/projects/nightlight_model1.png "3D Model")
-![alt text](/assets/images/projects/nightlight_model2.png "3D Model")
-![alt text](/assets/images/projects/nightlight_schematic.png "The schematic")
+![An image failed to load. This should be an image of the nightlight's 3D model.](/assets/images/projects/nightlight_model1.png "3D Model")
+
+![An image failed to load. This should be an image of the nightlight's 3D model.](/assets/images/projects/nightlight_model2.png "3D Model")
+
+![An image failed to load. This should be an image of the nightlight's schematic.](/assets/images/projects/nightlight_schematic.png "The schematic")
 
 ## Challenges
 I found that printing such large flat surfaces without a raft would cause them to cool unevenly and buckle. This in turn cause the panel to pull away from the print bed, leaving me with a ruined mass of plastic as the printer went on about its business. Adding the raft fixed this.
@@ -46,7 +50,7 @@ Using a ball bearing based tilt switch for this project was probably a mistake. 
 
 
 ## Brainstorming
-Part of the goal of this project was to go through the design exercise of rapid-fire brainstorming.  Rather than trying to pick one perfect idea and do a deep dive on it, I instead focused on coming up with many different designs from which I could choose or draw inspiration from. My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas included a simple parabolic reflector (what is essentially the business end of a flashlight), a lightbulb shaped nightlight, and a lighthouse.
+Part of the goal of this project was to go through the design exercise of rapid-fire brainstorming.  Rather than trying to pick one perfect idea and do a deep dive on it, I instead focused on coming up with many different designs from which I could choose or draw inspiration from. My first several ideas for a nightlight were fairly standard, drawing inspiration from common light sources I am familiar with. These ideas included a simple parabolic reflector (what is essentially the business end of a flashlight), a lightbulb shaped nightlight, and a lighthouse.  \[Ed. Note: I once had design sketches for all of these ideas, but they have unfortunately been lost to the ravages of time. Please use your imagination. Thank you.\]
 
 Continuing my inspiration from familiar light sources while straying slightly more into the whimsical are the UFO and Plumbob nightlights. The UFO just seemed like a cute idea for something that would glow with an internal light. The Plumbob is an object from The Sims, a video game about managing the life and happiness of simulated people. In this game the Plumbob hovers above characters' heads, slowly spinning and changing color to reflect their moods. This light would spin and change colors at random, although it did occur to me that one could integrate it with a system that would monitor a Twitter feed, perform some simple sentiment analysis, and change the lights color to reflect one's mood. This was beyond the scope of this project, but seemed like a neat idea.
 
