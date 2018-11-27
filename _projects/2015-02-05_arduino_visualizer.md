@@ -10,6 +10,3 @@ date: 2015-02-05
 
 A debug tool built in Processing for visualizing the analog and digital inputs of an Arduino.
 
-
-
-A program built in Processing for visualizing the analog and digital inputs of an Arduino.
