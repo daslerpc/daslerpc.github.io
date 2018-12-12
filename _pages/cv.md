@@ -108,7 +108,7 @@ Teaching
 Training
 ======
 * Teaching at the Collegiate Level, provided by The Teaching and Learning Center at The University of Maryland, completed 2014
-* Entrepreneurship Essentials Program, provided by the Maryland Technology Enterprise Institute at The University of Maryland, completed 2014
+* Entrepreneurship Essentials Program, provided by the Maryland Technology Enterprise Institute at The University of Maryland, completed 2012
 
 Service
 ======
