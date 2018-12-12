@@ -9,28 +9,28 @@ sort_order: reverse
 
 Education
 ======
-## PhD in Computer Science, 2019 (expected)
-    * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
-    * **Focus:** Computational Geometry
-    * **Advisor:** David Mount
-* MS in Computer Science, University of Houston, 2011
-    * **Thesis Title:** _Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma_
-    * **Focus:** Computational Intelligence and Game Theory
-    * **Advisor:** Predrag Tošić
-* BS in Computer Science, University of Texas at Austin, 2005
+### PhD in Computer Science, 2019 (expected)
+* **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
+* **Focus:** Computational Geometry
+* **Advisor:** David Mount
+### MS in Computer Science, University of Houston, 2011
+* **Thesis Title:** _Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma_
+* **Focus:** Computational Intelligence and Game Theory
+* **Advisor:** Predrag Tošić
+### BS in Computer Science, University of Texas at Austin, 2005
 
 Work experience
 ======
 ## Locurio, Inc.
 * 2015 to present: Co-Founder/Technology Lead
-	* Co-founder of consistently highest rated escape room experience in Seattle. Led technology design for one of two escape rooms and consulted on technical implementation for the second. Designed interactive puzzles from concept phase to implementation and contributed to story design. 
+	Co-founder of consistently highest rated escape room experience in Seattle. Led technology design for one of two escape rooms and consulted on technical implementation for the second. Designed interactive puzzles from concept phase to implementation and contributed to story design. 
 
 * University of Maryland Institute for Advanced Computer Studies (UMIACS)
-  * 2012 to 2013: Graduate Research Assistant
-  * Worked in the Computational Linguistics and Information Processing (CLIP) lab on a machine translation project that attempted to verify and refine translations through the comparison of back-translations with the original source text. This work involved the use and integration of an existing translation framework (cdec, developed by Chris Dyer) along with custom software for iterative comparison and translation refinement.
+* 2012 to 2013: Graduate Research Assistant
+  Worked in the Computational Linguistics and Information Processing (CLIP) lab on a machine translation project that attempted to verify and refine translations through the comparison of back-translations with the original source text. This work involved the use and integration of an existing translation framework (cdec, developed by Chris Dyer) along with custom software for iterative comparison and translation refinement.
   
-  * 2011 to 2012: Programmer
-  * Supported the Foresight and Understanding from Scientific Exposition (FUSE) Program funded by the Intelligence Advanced Research Projects Activity (IARPA) by creating tools in Python for the detection of emerging technical concepts within a large corpus of published scientific, technical, and patent literature. These tools include a naive Bayes classifier, a custom UIMA-Python interface, and a series of feature extraction and metric gathering programs.
+* 2011 to 2012: Programmer
+  Supported the Foresight and Understanding from Scientific Exposition (FUSE) Program funded by the Intelligence Advanced Research Projects Activity (IARPA) by creating tools in Python for the detection of emerging technical concepts within a large corpus of published scientific, technical, and patent literature. These tools include a naive Bayes classifier, a custom UIMA-Python interface, and a series of feature extraction and metric gathering programs.
 
 * United Space Alliance
   * 2007 to 2011: Computer Science Staff II
