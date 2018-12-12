@@ -10,7 +10,6 @@ sort_order: reverse
 ___
 
 <br>
-
 Education
 ======
 ### PhD in Computer Science, 2019 (expected)
@@ -26,7 +25,6 @@ Education
 ### BS in Computer Science, University of Texas at Austin, 2005
 
 <br>
-
 Work experience
 ======
 ### Locurio, Inc.
@@ -55,18 +53,23 @@ Work experience
   
 ### Lockheed Martin Honors Graduate Internships
 * 2005: Ground Systems Support Team
+
   Created and maintained an Access database with a Visual Basic front end for creating, editing, tracking, and closing Mission Control Center Incident Reports.
   
 * 2004: Mission Support Section
+
   Translated and updated dynamics/kinematics modeling software for monitoring real-time Space Shuttle/International Space Station docking; includes translating from C++ and Fortran to Java and creating a Graphical User Interface for the resulting software.
   
 * 2002, 2003: Dextrous Robotics Lab (DRL)
+
   Completed various projects in support of Robonaut, the DRL’s humanoid robot, and the Dexterous Anthropomorphic Robotic Testbed (DART); includes creating and assembling power distribution boards and force feedback hand controllers, graphical interfaces for text-to-speech and dynamical control capabilities, and conducting demonstrations and similar minor projects for visiting K-12 students, researches, and lab guests.
   
 * 2001: Command System Section
+
   Provided software development and support for Real-Time Command Systems within the Johnson Space Center Mission Control Center.
   
 * 2000: Consolidated Space Operations Contract
+
   Updated software package and subsequent training documentation for the Upper Atmosphere Research Satellite, including a real-time telemetry simulation program.
 
 Publications
