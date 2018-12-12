@@ -14,7 +14,7 @@ Education
 ======
 ### PhD in Computer Science, 2019 (expected)
 * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
-* **Focus:** Computational Geometry
+* **Focus:** Computational Geometry, Algorithm Design, Computational Complexity
 * **Advisor:** David M. Mount
 
 ### MS in Computer Science, University of Houston, 2011
@@ -105,6 +105,11 @@ Teaching
 	{% endfor %}
 </ul>
   
+Training
+======
+* Teaching at the Collegiate Level, provided by The Teaching and Learning Center at The University of Maryland, completed 2014
+* Entrepreneurship Essentials Program, provided by the Maryland Technology Enterprise Institute at The University of Maryland, completed 2014
+
 Service
 ======
 * International Colloquium on Automata, Languages, and Programming (ICALP) Reviewer, 2015
