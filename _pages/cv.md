@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Curriculum Vitae
 layout: archive
 permalink: /cv/
 classes: wide
@@ -7,30 +7,28 @@ sort_by: date
 sort_order: reverse
 ---
 
-
+___
 
 Education
 ======
-  ### PhD in Computer Science, 2019 (expected)
-  * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
-  * **Focus:** Computational Geometry
-  * **Advisor:** David Mount
+## PhD in Computer Science, 2019 (expected)
+* **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
+* **Focus:** Computational Geometry
+* **Advisor:** David Mount
 
-  ### MS in Computer Science, University of Houston, 2011
-  * **Thesis Title:** _Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma_
-  * **Focus:** Computational Intelligence and Game Theory
-  * **Advisor:** Predrag Tošić
+## MS in Computer Science, University of Houston, 2011
+* **Thesis Title:** _Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma_
+* **Focus:** Computational Intelligence and Game Theory
+* **Advisor:** Predrag Tošić
 
-  ### BS in Computer Science, University of Texas at Austin, 2005
-
-
-
+## BS in Computer Science, University of Texas at Austin, 2005
+<br><br>
 Work experience
 ======
-  ## Locurio, Inc.
-  * 2015 to present: Co-Founder/Technology Lead
+## Locurio, Inc.
+* 2015 to present: Co-Founder/Technology Lead
 
-	 Co-founder of consistently highest rated escape room experience in Seattle. Led technology design for one of two escape rooms and consulted on technical implementation for the second. Designed interactive puzzles from concept phase to implementation and contributed to story design. 
+	Co-founder of consistently highest rated escape room experience in Seattle. Led technology design for one of two escape rooms and consulted on technical implementation for the second. Designed interactive puzzles from concept phase to implementation and contributed to story design. 
 
 * University of Maryland Institute for Advanced Computer Studies (UMIACS)
 * 2012 to 2013: Graduate Research Assistant
