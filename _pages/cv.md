@@ -100,7 +100,7 @@ Teaching
   {% assign entries = site.teaching | sort: 'date' | reverse  %}
   {% for post in entries %}
 		<li>
-			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
+			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.type }}. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
 		</li>
 	{% endfor %}
 </ul>
