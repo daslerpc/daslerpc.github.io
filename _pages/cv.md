@@ -8,8 +8,8 @@ sort_order: reverse
 ---
 
 ___
-
 <br>
+
 Education
 ======
 ### PhD in Computer Science, 2019 (expected)
@@ -23,8 +23,8 @@ Education
 * **Advisor:** Predrag Tošić
 
 ### BS in Computer Science, University of Texas at Austin, 2005
-
 <br>
+
 Work experience
 ======
 ### Locurio, Inc.
