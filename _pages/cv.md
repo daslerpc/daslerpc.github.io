@@ -9,7 +9,7 @@ sort_order: reverse
 
 Education
 ======
-* PhD in Computer Science, 2019 (expected)
+## PhD in Computer Science, 2019 (expected)
     * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
     * **Focus:** Computational Geometry
     * **Advisor:** David Mount
@@ -21,8 +21,8 @@ Education
 
 Work experience
 ======
-* Locurio, Inc.
-	* 2015 to present: Co-Founder/Technology Lead
+## Locurio, Inc.
+* 2015 to present: Co-Founder/Technology Lead
 	* Co-founder of consistently highest rated escape room experience in Seattle. Led technology design for one of two escape rooms and consulted on technical implementation for the second. Designed interactive puzzles from concept phase to implementation and contributed to story design. 
 
 * University of Maryland Institute for Advanced Computer Studies (UMIACS)
@@ -70,7 +70,8 @@ Publications
 Talks
 ======
 <ul>
-	{% for post in site.talks %}
+  {% assign entries = site.talks | sort: 'date' | reverse  %}
+  {% for post in entries %}
 		<li>
 			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
 		</li>
@@ -80,7 +81,8 @@ Talks
 Teaching
 ======
 <ul>
-	{% for post in site.teaching %}
+  {% assign entries = site.teaching | sort: 'date' | reverse  %}
+  {% for post in entries %}
 		<li>
 			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
 		</li>
