@@ -15,15 +15,15 @@ Education
 ### PhD in Computer Science, 2019 (expected)
 * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
 * **Focus:** Computational Geometry
-* **Advisor:** David Mount
+* **Advisor:** David M. Mount
 
 ### MS in Computer Science, University of Houston, 2011
 * **Thesis Title:** _Playing Challenging Iterated Two-Person Games Well: A Case Study on the Iterated Traveler's Dilemma_
 * **Focus:** Computational Intelligence and Game Theory
 * **Advisor:** Predrag Tošić
 
-### BS in Computer Science, University of Texas at Austin, 2005
-
+### BS in Computer Science, University of Texas at Austin, 2005  
+<br>
 
 Work experience
 ======
