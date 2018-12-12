@@ -10,6 +10,7 @@ sort_order: reverse
 Education
 ======
 * PhD in Computer Science, 2019 (expected)
+    * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems_ (working title)
     * **Focus:** Computational Geometry
     * **Advisor:** David Mount
 * MS in Computer Science, University of Houston, 2011
@@ -58,7 +59,8 @@ Work experience
 Publications
 ======
 <ul>
-	{% for post in site.publications %}
+  {% assign entries = site.publications | sort: 'date' | reverse  %}
+	{% for post in entries %}
 		<li>
 			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} [<a href="{{ post.paperurl }}">PDF</a>]</p>
 		</li>
@@ -70,7 +72,7 @@ Talks
 <ul>
 	{% for post in site.talks %}
 		<li>
-			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} [<a href="{{ post.paperurl }}">PDF</a>]</p>
+			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
 		</li>
 	{% endfor %}
 </ul>
@@ -80,7 +82,7 @@ Teaching
 <ul>
 	{% for post in site.teaching %}
 		<li>
-			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} [<a href="{{ post.paperurl }}">PDF</a>]</p>
+			<p><a href="{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.date | date: "%Y" }} </p>
 		</li>
 	{% endfor %}
 </ul>
