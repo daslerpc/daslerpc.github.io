@@ -13,4 +13,4 @@ location: "The University of Houston, Houston, TX"
 
 A departmental talk describing the Iterated Traveler's Dilemma and an experimental analysis of the performance of several strategy types.
 
-Talk description goes here.
+A description of this talk and the accompanying slides will be added in the future.

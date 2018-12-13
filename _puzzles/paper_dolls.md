@@ -9,4 +9,4 @@ header:
 
 Help the lovely ladies at the Paper Dolls Saloon after a wild night has left the place in shambles.  Written for the inaugural DASH.
 
-This will be a short description of the project.
+A longer description of this project with pictures is forthcoming. If you can't wait, contact me and I'd be happy to discuss it with you in greater detail.

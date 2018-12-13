@@ -9,4 +9,4 @@ header:
 
 Navigate the labyrinth and help Theseus defeat the minotaur.  This puzzle was written for The Gauntlet, an annual gaming charity event.
 
-This will be a short description of the project.
+A longer description of this project with pictures is forthcoming. If you can't wait, contact me and I'd be happy to discuss it with you in greater detail.

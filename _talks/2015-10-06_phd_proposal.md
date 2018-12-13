@@ -13,4 +13,4 @@ location: "The University of Maryland, College Park, MD"
 
 A departmental talk describing my prior work on autonomous vehicles at an unregulated traffic crossing and a proposal for future work.  Delivered as part of my PhD candidacy proposal.
 
-Talk description goes here.
+A description of this talk and the accompanying slides will be added in the future.
