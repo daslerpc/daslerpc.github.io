@@ -29,11 +29,8 @@ Work experience
 ======
 ### Adobe, Inc.
 * Summer 2019: Data Science Research Intern
-** Designed,  implemented,  and  deployed  an  IoT  ecosystem  of  low-cost  LED indicators for indoor navigation.
-** Conducted  a  multi-stage,  exploratory  study  to  determine  existing  navigational  challenges  and  gauge  user  interest  in  various  possible  navigational solutions.
-** Designed and implemented a mechanism for the rapid ingestion and preparation of map data.
-** Created  a  central  framework  for  integrating,  controlling,  and  interacting with an ecosystem of mixed-fidelity devices.
-** Evaluated the deployed system prototype using a mixed methods approach, including a controlled user experiment and semi-structured interview.
+
+	Designed,  implemented,  and  deployed  an  IoT  ecosystem  of  low-cost  LED indicators for guiding users to their destinations quickly, easily, and with minimal cognitive load. Conducted a multi-stage,  exploratory  study  to  determine  existing  navigational  challenges  and  gauge  user  interest  in  various  possible  navigational solutions. Designed and implemented a mechanism for the rapid ingestion and preparation of map data. Created  a  central  framework  for  integrating,  controlling,  and  interacting with an ecosystem of mixed-fidelity devices. Evaluated the deployed system prototype using a mixed methods approach, including a controlled user experiment and semi-structured interview.
 
 ### Locurio, Inc.
 * 2015 to present: Co-Founder/Technology Lead
