@@ -12,7 +12,7 @@ ___
 
 Education
 ======
-### PhD in Computer Science, 2019 (expected)
+### PhD in Computer Science, 2020 (expected)
 * **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems in Shared Spaces_ (working title)
 * **Focus:** Computational Geometry, Algorithm Design, Computational Complexity
 * **Advisor:** David M. Mount
