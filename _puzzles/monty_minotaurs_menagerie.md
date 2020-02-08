@@ -4,7 +4,7 @@ collection: puzzles
 category: authored
 classes: wide
 header: 
-  teaser: /assets/images/puzzles/monty_minotairs_magical_menagerie.png
+  teaser: /assets/images/puzzles/monty_minotaurs_magical_menagerie.png
 date: 2019-01-17
 ---
 
