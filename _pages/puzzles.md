@@ -16,7 +16,7 @@ The puzzle style in these events is what I would call instructionless obfuscatio
 
 <a href="https://www.wired.com/2012/04/mf_puzzlehunter/">Wired magazine</a> did a great write-up of a road-rally style game and the MIT admissions blog has a fantastic recap of the <a href="https://mitadmissions.org/blogs/entry/two-hundred-puzzles/">2020 MIT Mystery Hunt</a>, both with nice examples of puzzles from those events.
 
-
+<hr>
 
 
 
