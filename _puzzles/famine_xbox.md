@@ -5,6 +5,7 @@ category: contributed
 classes: wide
 header: 
   teaser: /assets/images/puzzles/famine_xbox.png
+date: 2013-09-26
 ---
 
 A puzzle for The Famine Game which garnered some fame on YouTube and Reddit.

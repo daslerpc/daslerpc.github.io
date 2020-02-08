@@ -5,6 +5,7 @@ category: event
 classes: wide
 header: 
   teaser: /assets/images/puzzles/locurio.png
+date: 2015-08-01
 ---
 
 Locurio is an immersive interactive entertainment company that I cofounded whose debut experience, an escape room called The Vanished Act, has led to multiple awards and quickly distinguished Locurio as the #1 escape room company in Seattle.
