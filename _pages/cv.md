@@ -12,8 +12,8 @@ ___
 
 Education
 ======
-### PhD in Computer Science, University of Maryland, College Park, 2020 (expected)
-* **Dissertation Title:** _An Algorithmic Approach to Coordinated Systems in Shared Spaces_ (working title)
+### PhD in Computer Science, University of Maryland, College Park, 2020
+* **Dissertation Title:** _Efficient Algorithms for Coordinated Motion in Shared Spaces_
 * **Focus:** Computational Geometry, Algorithm Design, Computational Complexity
 * **Advisor:** David M. Mount
 
@@ -40,7 +40,7 @@ Work experience
 ### University of Maryland Institute for Advanced Computer Studies (UMIACS)
 * 2013 to 2016: Graduate Research Assistant
 
- Worked on a National Science Foundation (NSF) funded project to explore the  theoretic  and  computational  concerns  involved  in  the  deployment  of large scale, autonomous vehicle systems.  This research is motivated by the question of whether the field of algorithm design can contribute positively to practical engineering solutions, with the aim to identify fundamental optimization  problems  that  are  simple  enough  to  be  analyzed  formally,  but realistic enough to contribute to the eventual design of actual traffic management systems.
+	Worked on a National Science Foundation (NSF) funded project to explore the  theoretic  and  computational  concerns  involved  in  the  deployment  of large scale, autonomous vehicle systems.  This research is motivated by the question of whether the field of algorithm design can contribute positively to practical engineering solutions, with the aim to identify fundamental optimization  problems  that  are  simple  enough  to  be  analyzed  formally,  but realistic enough to contribute to the eventual design of actual traffic management systems.
 
 * 2012 to 2013: Graduate Research Assistant
 
