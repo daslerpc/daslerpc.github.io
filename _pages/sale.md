@@ -6,6 +6,6 @@ collection: sale
 classes: wide
 ---
 
-Below is furniture we are selling.
+Below is some stuff we are selling.
 
 <hr>
