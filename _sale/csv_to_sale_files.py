@@ -55,19 +55,18 @@ with open('inventory.csv', 'rU') as csvfile:
             item_type = data_row[3]
             item_do = data_row[4]
             item_price_each = data_row[10]
-            item_bundle_price = data_row[11]
-            item_notes = data_row[12]
-            item_pic = data_row[13]
-            item_desc = data_row[14]
+            item_bundle_price = data_row[11]            
+            item_desc = data_row[12]
+            item_notes = data_row[13]
+
+            item_clean_name = item_name.lower().replace(" ", "_")
 
             image_directory = '/assets/images/sale/'
-            image_filename = image_directory + item_pic+'.png'
+            image_filename = image_directory + item_clean_name +'.png'
                 
             if item_do == "Sell":
 
-                filepath = item_name.lower().replace(" ", "_")
-                
-                project_file = open(filepath + '.md', 'w')
+                project_file = open(item_clean_name + '.md', 'w')
 
                 project_file.write('---\n')
                 writeItemHeader(data_row)
@@ -87,7 +86,7 @@ with open('inventory.csv', 'rU') as csvfile:
                 else:
                         project_file.write('Preis: ' + item_price_each + '\n')
 
-                project_file.write('\n ##### Beachten\n')
+                project_file.write('\n##### Beachten\n')
                 project_file.write(item_notes)
                 project_file.close()
         
