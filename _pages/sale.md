@@ -9,4 +9,3 @@ classes: wide
 Below is furniture we are selling.
 
 <hr>
-
