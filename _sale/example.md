@@ -9,7 +9,7 @@ header:
 
 Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
 
-<img src="/assets/images/sale/example.png" alt="Example Title"> 
+<img src="/assets/images/sale/example.png" alt="Beispieltitel"> 
 
 Quantität: 2
 Preis pro Artikel: 20€
