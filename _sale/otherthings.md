@@ -1,7 +1,7 @@
 ---
 title: "Other things"
 collection: sale
-category: Games
+category: games
 classes: wide
 header: 
   teaser: /assets/images/sale/otherthings.png
