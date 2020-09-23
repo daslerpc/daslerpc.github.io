@@ -1,18 +1,19 @@
 ---
-title: "Example Title"
-quantity: 1
+title: "Beispieltitel"
 collection: sale
-category: bedroom
+category: furniture
 classes: wide
 header: 
   teaser: /assets/images/sale/example.png
 ---
 
-This is the short description of the item.  In this case, it's an example.
+Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
 
 <img src="/assets/images/sale/example.png" alt="Example Title"> 
 
-Asking Price: 20€
+Quantität: 2
+Preis pro Artikel: 20€
+Preis zusammen: 20€
 
-##### Notes 
-Here is a longer description, if needed, for describing specific features, blemishes, etc.
+##### Beachten 
+Hier finden Sie bei Bedarf eine längere Beschreibung zur Beschreibung bestimmter Merkmale, Fehler usw.
