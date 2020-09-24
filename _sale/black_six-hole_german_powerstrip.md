@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/black_six-hole_german_powerstrip.png" alt="Black six-hole german powerstrip">
 
-Preis: €
+Preis: Preisvorschlag€
 
 ##### Beachten

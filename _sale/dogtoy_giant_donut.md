@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/dogtoy_giant_donut.png" alt="Dogtoy giant donut">
 
-Preis: €
+Preis: Preisvorschlag€
 
 ##### Beachten

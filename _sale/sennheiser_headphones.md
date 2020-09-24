@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/sennheiser_headphones.png" alt="Sennheiser headphones">
 
-Preis: €
+Preis: Preisvorschlag€
 
 ##### Beachten

@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/thrawn.png" alt="Thrawn">
 
-Preis: €
+Preis: Preisvorschlag€
 
 ##### Beachten

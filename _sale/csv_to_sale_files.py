@@ -60,6 +60,9 @@ with open('inventory.csv', 'rU') as csvfile:
             item_desc = data_row[12]
             item_notes = data_row[13]
 
+            if item_price_each == '':
+                    item_price_each = 'Preisvorschlag'
+                    
             item_clean_name = item_name.lower().replace(" ", "_")
 
             image_directory = '/assets/images/sale/'
@@ -80,10 +83,10 @@ with open('inventory.csv', 'rU') as csvfile:
                 project_file.write('\n')
 
                 if item_qty != '':
-                        project_file.write('   Quantität: ' + item_qty + '  \n')
-                        project_file.write('   Preis pro Artikel: ' + item_price_each + '€  \n')
+                        project_file.write('   **Quantität**: ' + item_qty + '  \n')
+                        project_file.write('   **Preis pro Artikel**: ' + item_price_each + '€  \n')
                         if item_bundle_price != '':
-                                project_file.write('   Preis zusammen: ' + item_bundle_price + '€  \n')
+                                project_file.write('   **Preis zusammen**: ' + item_bundle_price + '€  \n')
                 else:
                         project_file.write('Preis: ' + item_price_each + '€\n')
 

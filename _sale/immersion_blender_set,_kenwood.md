@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/immersion_blender_set,_kenwood.png" alt="immersion blender set, Kenwood">
 
-Preis: €
+Preis: Preisvorschlag€
 
 ##### Beachten
