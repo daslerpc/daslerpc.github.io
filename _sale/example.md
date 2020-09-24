@@ -4,7 +4,7 @@ collection: sale
 category: furniture
 classes: wide
 header: 
-  teaser: /assets/images/sale/example.png
+  teaser: /assets/images/sale/otherthings.png
 ---
 
 Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
