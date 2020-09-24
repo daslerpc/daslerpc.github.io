@@ -1,6 +1,6 @@
 ---
 title: Zu verkaufen
-layout: collection
+layout: categories
 permalink: /sale/
 collection: sale
 classes: wide

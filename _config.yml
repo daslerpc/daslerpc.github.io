@@ -288,7 +288,7 @@ defaults:
       type: sale
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _talks
   - scope: 
       path: ""
