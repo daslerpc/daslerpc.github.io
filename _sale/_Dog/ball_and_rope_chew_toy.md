@@ -1,6 +1,5 @@
 ---
 title: "Ball and rope chew toy"
-collection: sale
 category: dog
 classes: wide
 header: 

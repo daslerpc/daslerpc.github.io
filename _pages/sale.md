@@ -7,6 +7,6 @@ collection: sale
 classes: wide
 ---
 
-Below is some dog stuff we are selling, lowercase.
+Below is some dog stuff we are selling, no collection.
 
 <hr>
