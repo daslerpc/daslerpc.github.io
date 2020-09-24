@@ -1,5 +1,6 @@
 import csv
 import os.path
+import codecs
 from shutil import copyfile
 
 #Py_version = 'Python_2'
@@ -66,7 +67,7 @@ with open('inventory.csv', 'rU') as csvfile:
                 
             if item_do == "Sell":
 
-                project_file = open(item_clean_name + '.md', 'w')
+                project_file = codecs.open(item_clean_name + '.md', 'w',  "utf-8")
 
                 project_file.write('---\n')
                 writeItemHeader(data_row)
