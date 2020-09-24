@@ -6,6 +6,6 @@ collection: sale
 classes: wide
 ---
 
-Below is some dog stuff we are selling: posts.
+Below is some dog stuff we are selling.
 
 <hr>
