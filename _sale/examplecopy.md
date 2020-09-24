@@ -15,4 +15,4 @@ Quantität: 2
 Preis pro Artikel: 20€
 
 ##### Beachten 
-Hier finden Sie bei Bedarf eine längere Beschreibung zur Beschreibung bestimmter Merkmale, Fehler usw.
+What, you've never seen things before?
