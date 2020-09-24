@@ -3,7 +3,6 @@ title: Zu verkaufen
 layout: categories
 permalink: /sale/
 collection: sale
-entries_layout: grid
 classes: wide
 ---
 
