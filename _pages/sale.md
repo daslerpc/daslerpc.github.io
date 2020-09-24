@@ -4,6 +4,6 @@ layout: categories
 permalink: /sale/
 ---
 
-Below is some stuff we are selling.
+Below is some stuff.
 
 <hr>
