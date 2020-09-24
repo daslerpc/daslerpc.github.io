@@ -1,15 +1,15 @@
 ---
-title: "Beispieltitel"
+title: "Other thing"
 collection: sale
 category: furniture
 classes: wide
 header: 
-  teaser: /assets/images/sale/example.png
+  teaser: /assets/images/sale/otherthings.png
 ---
 
 Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
 
-<img src="/assets/images/sale/example.png" alt="Beispieltitel"> 
+<img src="/assets/images/sale/otherthings.png" alt="Other"> 
 
 **Quantität:** 2
 
