@@ -12,6 +12,6 @@ header:
 <img src="/assets/images/sale/white_5-hole_french_powerstrip.png" alt="White 5-hole French powerstrip">
 
    **Quantität**: 3  
-   **Preis pro Artikel**: Preisvorschlag€  
+   **Preis pro Artikel**: Preisvorschlag  
 
 ##### Beachten

@@ -12,6 +12,6 @@ header:
 <img src="/assets/images/sale/tennis_ball.png" alt="Tennis ball">
 
    **Quantität**: 2  
-   **Preis pro Artikel**: Preisvorschlag€  
+   **Preis pro Artikel**: Preisvorschlag  
 
 ##### Beachten
