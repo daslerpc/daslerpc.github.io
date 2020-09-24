@@ -317,14 +317,6 @@ defaults:
     values: 
       layout: single
       author_profile: true
-  # _categories
-  - scope:
-      path: ""
-      type: categories
-    values: 
-      layout: single
-      author_profile: true
-
 
 # Collections
 collections:
