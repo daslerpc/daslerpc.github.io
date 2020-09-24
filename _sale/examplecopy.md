@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/sale/other_things.png
 ---
 
-Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
+Some things.
 
-<img src="/assets/images/sale/other_things.png" alt="Other"> 
+<img src="/assets/images/sale/other_things.png" alt="Other things"> 
 
 **Quantität:** 2
 
