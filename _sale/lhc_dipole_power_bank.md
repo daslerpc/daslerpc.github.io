@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/lhc_dipole_power_bank.png" alt="LHC Dipole power bank">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

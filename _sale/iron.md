@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/iron.png" alt="iron">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/toaster,_russell_hobbs_blue.png" alt="Toaster, Russell Hobbs blue">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

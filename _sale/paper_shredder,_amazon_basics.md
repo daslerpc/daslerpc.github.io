@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/paper_shredder,_amazon_basics.png" alt="Paper shredder, Amazon Basics">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

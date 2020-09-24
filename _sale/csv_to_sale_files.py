@@ -91,7 +91,11 @@ with open('inventory.csv', 'rU') as csvfile:
                         if item_bundle_price != '':
                                 project_file.write('   **Preis zusammen**: ' + item_bundle_price + '€  \n')
                 else:
+<<<<<<< HEAD
                         project_file.write('**Preis**: ' + item_price_each + '\n')
+=======
+                        project_file.write('Preis: ' + item_price_each + '€\n')
+>>>>>>> parent of e3a2479c... priceless euro symbol removal
 
                 project_file.write('\n##### Beachten:\n')
                 if item_notes != '':

@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/spice_grinder.png" alt="spice grinder">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

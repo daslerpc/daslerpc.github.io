@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/fridge.png" alt="Fridge">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten

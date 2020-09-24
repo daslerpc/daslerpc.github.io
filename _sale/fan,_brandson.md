@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/fan,_brandson.png" alt="Fan, Brandson">
 
-Preis: Preisvorschlag
+Preis: Preisvorschlag€
 
 ##### Beachten
