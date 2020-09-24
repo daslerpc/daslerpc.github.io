@@ -1,5 +1,5 @@
 ---
-title: "Beispieltitel"
+title: "Other Things"
 collection: sale
 category: furniture
 classes: wide
