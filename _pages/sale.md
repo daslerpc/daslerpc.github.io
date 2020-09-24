@@ -7,6 +7,6 @@ collection: sale
 classes: wide
 ---
 
-Below is some dog stuff we are selling, by cat.
+Below is some dog stuff we are selling, by cat, in folder.
 
 <hr>
