@@ -93,7 +93,11 @@ with open('inventory.csv', 'rU') as csvfile:
                 else:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         project_file.write('**Preis**: ' + item_price_each + '\n')
+=======
+                        project_file.write('Preis: ' + item_price_each + '€\n')
+>>>>>>> parent of e3a2479c... priceless euro symbol removal
 =======
                         project_file.write('Preis: ' + item_price_each + '€\n')
 >>>>>>> parent of e3a2479c... priceless euro symbol removal
