@@ -1,12 +1,12 @@
 ---
 title: Zu verkaufen
 layout: category
-taxonomy: Dog
+taxonomy: dog
 permalink: /sale/
 collection: sale
 classes: wide
 ---
 
-Below is some dog stuff we are selling, by cat, in folder.
+Below is some dog stuff we are selling, lowercase.
 
 <hr>
