@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/cheetah_dog_toy.png" alt="Cheetah dog toy">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

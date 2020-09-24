@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/ball_and_rope_chew_toy.png" alt="Ball and rope chew toy">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

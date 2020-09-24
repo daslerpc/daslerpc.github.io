@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/tea_kettle,_russell_hobbs_blue_1l.png" alt="Tea kettle, Russell Hobbs blue 1L">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

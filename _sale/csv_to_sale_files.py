@@ -91,7 +91,7 @@ with open('inventory.csv', 'rU') as csvfile:
                         if item_bundle_price != '':
                                 project_file.write('   **Preis zusammen**: ' + item_bundle_price + '€  \n')
                 else:
-                        project_file.write('Preis: ' + item_price_each + '€\n')
+                        project_file.write('Preis: ' + item_price_each + '\n')
 
                 project_file.write('\n##### Beachten\n')
                 project_file.write(item_notes)

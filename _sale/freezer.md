@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/freezer.png" alt="Freezer">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

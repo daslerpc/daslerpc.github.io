@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/vacuum,_miele_c3_powerline_cat_and_dog_with_bags.png" alt="Vacuum, Miele C3 Powerline Cat and Dog with bags">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

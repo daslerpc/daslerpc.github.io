@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/tom_tom_gps.png" alt="Tom Tom GPS">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten

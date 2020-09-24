@@ -11,6 +11,6 @@ header:
 
 <img src="/assets/images/sale/washing_machine,_siemens.png" alt="Washing machine, Siemens">
 
-Preis: Preisvorschlag€
+Preis: Preisvorschlag
 
 ##### Beachten
