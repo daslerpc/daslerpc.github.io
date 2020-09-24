@@ -1,8 +1,7 @@
 ---
 title: "Ball and rope chew toy"
-collection: sale
-categories: 
-	- Dog
+categories:
+  - Post Formats
 classes: wide
 header: 
   teaser: /assets/images/sale/ball_and_rope_chew_toy.png
