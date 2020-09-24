@@ -2,7 +2,7 @@
 title: Zu verkaufen
 layout: category
 taxonomy: Dog
-permalink: /sale/
+permalink: /categories/Dog
 collection: sale
 classes: wide
 ---
