@@ -1,12 +1,11 @@
 ---
 title: Zu verkaufen
-layout: category
-taxonomy: Dog
-permalink: /categories/Dog
+layout: categories
+permalink: /sale/
 collection: sale
 classes: wide
 ---
 
-Below is some dog stuff we are selling, new folder.
+Below is some dog stuff we are selling.
 
 <hr>
