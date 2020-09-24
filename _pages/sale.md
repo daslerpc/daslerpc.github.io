@@ -1,7 +1,7 @@
 ---
 title: Zu verkaufen
-layout: collection
-permalink: /sale/
+layout: categories
+permalink: /categories/
 collection: sale
 classes: wide
 ---
