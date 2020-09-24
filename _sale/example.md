@@ -1,10 +1,10 @@
 ---
-title: "Other Things"
+title: "Beispieltitel"
 collection: sale
 category: furniture
 classes: wide
 header: 
-  teaser: /assets/images/sale/otherthings.png
+  teaser: /assets/images/sale/example.png
 ---
 
 Dies ist die kurze Beschreibung des Artikels. In diesem Fall ist es ein Beispiel.
