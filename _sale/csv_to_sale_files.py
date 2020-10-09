@@ -5,8 +5,8 @@ import codecs
 import re
 from shutil import copyfile
 
-Py_version = 'Python_2'
-#Py_version = 'Python_3'
+#Py_version = 'Python_2'
+Py_version = 'Python_3'
 
 
 #############
@@ -40,7 +40,7 @@ def writeItemHeader(data_row):
 ##     Main     ##
 ##################
         
-with open('inventory.csv', 'rU') as csvfile:
+with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
     csv_reader = csv.reader(csvfile, dialect='excel')
     
     # Skip the header row
@@ -104,7 +104,7 @@ with open('inventory.csv', 'rU') as csvfile:
                         project_file.write(item_notes)
 
                 project_file.write('\n')
-                project_file.write('\n##### Kaufen:\n')
+                project_file.write('\n#### Kaufen:\n')
                 project_file.write('<a href="'+ item_listing +'">\n')
                 project_file.write('  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">\n')
                 project_file.write('</a>\n')
