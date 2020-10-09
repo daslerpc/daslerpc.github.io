@@ -1,0 +1,24 @@
+---
+title: "Bookshelf, wide with topper (Ikea Billy)"
+collection: sale
+category: Furniture
+classes: wide
+header: 
+  teaser: /assets/images/sale/bookshelf_wide_with_topper_ikea_billy.png
+---
+
+
+
+<a href="">
+  <img src="/assets/images/sale/bookshelf_wide_with_topper_ikea_billy.png" alt="Bookshelf, wide with topper (Ikea Billy)">
+</a>
+
+   **Quantit&#228;t**: 3  
+   **Preis pro Artikel**: Preisvorschlag  
+
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" border: 5px solid #555;>
+</a>
+

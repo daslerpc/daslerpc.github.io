@@ -6,6 +6,6 @@ collection: sale
 classes: wide
 ---
 
-Some stuff we are selling.
+Wir ziehen um und verkaufen unsere Sachen.
 
 <hr>
