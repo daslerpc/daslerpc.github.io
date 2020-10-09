@@ -106,7 +106,7 @@ with open('inventory.csv', 'rU') as csvfile:
                 project_file.write('\n')
                 project_file.write('\n##### Kaufen:\n')
                 project_file.write('<a href="'+ item_listing +'">\n')
-                project_file.write('  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">\n')
+                project_file.write('  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" border: 5px solid #555;>\n')
                 project_file.write('</a>\n')
                 project_file.write('\n')
                 project_file.close()
