@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/thrawn.png" alt="Thrawn">
+<a href="">
+  <img src="/assets/images/sale/thrawn.png" alt="Thrawn">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

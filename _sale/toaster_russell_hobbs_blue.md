@@ -1,16 +1,16 @@
 ---
-title: "Fridge"
+title: "Toaster, Russell Hobbs blue"
 collection: sale
 category: Appliance
 classes: wide
 header: 
-  teaser: /assets/images/sale/fridge.png
+  teaser: /assets/images/sale/toaster_russell_hobbs_blue.png
 ---
 
 
 
 <a href="">
-  <img src="/assets/images/sale/fridge.png" alt="Fridge">
+  <img src="/assets/images/sale/toaster_russell_hobbs_blue.png" alt="Toaster, Russell Hobbs blue">
 </a>
 
 **Preis**: Preisvorschlag

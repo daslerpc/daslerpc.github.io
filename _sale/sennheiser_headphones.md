@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/sennheiser_headphones.png" alt="Sennheiser headphones">
+<a href="">
+  <img src="/assets/images/sale/sennheiser_headphones.png" alt="Sennheiser headphones">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

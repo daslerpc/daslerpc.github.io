@@ -9,9 +9,16 @@ header:
 
 
 
-<img src="/assets/images/sale/tennis_ball.png" alt="Tennis ball">
+<a href="">
+  <img src="/assets/images/sale/tennis_ball.png" alt="Tennis ball">
+</a>
 
-   **Quantität**: 2  
+   **Quantit&#228;t**: 2  
    **Preis pro Artikel**: Preisvorschlag  
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

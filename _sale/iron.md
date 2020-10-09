@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/iron.png" alt="iron">
+<a href="">
+  <img src="/assets/images/sale/iron.png" alt="iron">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

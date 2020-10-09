@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/spice_grinder.png" alt="spice grinder">
+<a href="">
+  <img src="/assets/images/sale/spice_grinder.png" alt="spice grinder">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

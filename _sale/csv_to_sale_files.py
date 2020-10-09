@@ -1,10 +1,12 @@
+# coding=utf-8
 import csv
 import os.path
 import codecs
+import re
 from shutil import copyfile
 
-#Py_version = 'Python_2'
-Py_version = 'Python_3'
+Py_version = 'Python_2'
+#Py_version = 'Python_3'
 
 
 #############
@@ -58,15 +60,16 @@ with open('inventory.csv', 'rU') as csvfile:
             item_price_each = data_row[10]
             item_bundle_price = data_row[11]            
             item_desc = data_row[12]
-            item_notes = data_row[13]
+            item_notes = data_row[13]            
+            item_listing = data_row[14]
 
             if item_price_each == '':
                     item_price_each = 'Preisvorschlag'
             else:
-                    item_price_each = item_price_each + '€'
-                        
+                    item_price_each = item_price_each + '€'                        
                     
             item_clean_name = item_name.lower().replace(" ", "_")
+            item_clean_name = re.sub(r'\W+', '', item_clean_name)
 
             image_directory = '/assets/images/sale/'
             image_filename = image_directory + item_clean_name +'.png'
@@ -82,20 +85,30 @@ with open('inventory.csv', 'rU') as csvfile:
                 project_file.write(item_desc + '\n')
 
                 project_file.write('\n')
-                project_file.write('<img src="' + image_filename + '" alt="' + item_name + '">\n')
+                project_file.write('<a href="'+ item_listing +'">\n')
+                project_file.write('  <img src="' + image_filename + '" alt="' + item_name + '">\n')
+                project_file.write('</a>\n')
                 project_file.write('\n')
 
                 if item_qty != '':
-                        project_file.write('   **Quantität**: ' + item_qty + '  \n')
+                        project_file.write('   **Quantit&#228;t**: ' + item_qty + '  \n')
                         project_file.write('   **Preis pro Artikel**: ' + item_price_each + '  \n')
                         if item_bundle_price != '':
                                 project_file.write('   **Preis zusammen**: ' + item_bundle_price + '€  \n')
                 else:
                         project_file.write('**Preis**: ' + item_price_each + '\n')
 
-                project_file.write('\n##### Beachten:\n')
+                
                 if item_notes != '':
+                        project_file.write('\n##### Beachten:\n')
                         project_file.write(item_notes)
+
+                project_file.write('\n')
+                project_file.write('\n##### Kaufen:\n')
+                project_file.write('<a href="'+ item_listing +'">\n')
+                project_file.write('  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">\n')
+                project_file.write('</a>\n')
+                project_file.write('\n')
                 project_file.close()
         
     csvfile.close()

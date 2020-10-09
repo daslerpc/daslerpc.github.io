@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/freezer.png" alt="Freezer">
+<a href="">
+  <img src="/assets/images/sale/freezer.png" alt="Freezer">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/dogtoy_giant_donut.png" alt="Dogtoy giant donut">
+<a href="">
+  <img src="/assets/images/sale/dogtoy_giant_donut.png" alt="Dogtoy giant donut">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

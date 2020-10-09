@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/crinkly_pizza_dog_toy.png" alt="Crinkly pizza dog toy">
+<a href="">
+  <img src="/assets/images/sale/crinkly_pizza_dog_toy.png" alt="Crinkly pizza dog toy">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

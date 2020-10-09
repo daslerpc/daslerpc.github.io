@@ -1,16 +1,16 @@
 ---
-title: "Fridge"
+title: "Fan, Brandson"
 collection: sale
 category: Appliance
 classes: wide
 header: 
-  teaser: /assets/images/sale/fridge.png
+  teaser: /assets/images/sale/fan_brandson.png
 ---
 
 
 
 <a href="">
-  <img src="/assets/images/sale/fridge.png" alt="Fridge">
+  <img src="/assets/images/sale/fan_brandson.png" alt="Fan, Brandson">
 </a>
 
 **Preis**: Preisvorschlag

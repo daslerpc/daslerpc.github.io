@@ -1,16 +1,16 @@
 ---
-title: "Fridge"
+title: "Washing machine, Siemens"
 collection: sale
 category: Appliance
 classes: wide
 header: 
-  teaser: /assets/images/sale/fridge.png
+  teaser: /assets/images/sale/washing_machine_siemens.png
 ---
 
 
 
 <a href="">
-  <img src="/assets/images/sale/fridge.png" alt="Fridge">
+  <img src="/assets/images/sale/washing_machine_siemens.png" alt="Washing machine, Siemens">
 </a>
 
 **Preis**: Preisvorschlag

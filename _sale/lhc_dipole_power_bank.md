@@ -9,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/lhc_dipole_power_bank.png" alt="LHC Dipole power bank">
+<a href="">
+  <img src="/assets/images/sale/lhc_dipole_power_bank.png" alt="LHC Dipole power bank">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+

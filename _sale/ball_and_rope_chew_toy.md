@@ -1,5 +1,6 @@
 ---
 title: "Ball and rope chew toy"
+collection: sale
 category: Dog
 classes: wide
 header: 
@@ -8,8 +9,15 @@ header:
 
 
 
-<img src="/assets/images/sale/ball_and_rope_chew_toy.png" alt="Ball and rope chew toy">
+<a href="">
+  <img src="/assets/images/sale/ball_and_rope_chew_toy.png" alt="Ball and rope chew toy">
+</a>
 
-Preis: Preisvorschlag€
+**Preis**: Preisvorschlag
 
-##### Beachten
+
+##### Kaufen:
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen">
+</a>
+
