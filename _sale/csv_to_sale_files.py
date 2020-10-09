@@ -53,7 +53,7 @@ with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
     
     for data_row in csv_reader:
             item_qty = data_row[0]
-            item_name = data_row[1]
+            item_name = data_row[1].replace('"',"'")
             item_status = data_row[2]
             item_type = data_row[3]
             item_do = data_row[4]

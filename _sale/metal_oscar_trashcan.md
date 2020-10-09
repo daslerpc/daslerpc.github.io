@@ -1,5 +1,5 @@
 ---
-title: "Metal "Oscar" trashcan"
+title: "Metal 'Oscar' trashcan"
 collection: sale
 category: Furniture
 classes: wide
@@ -10,7 +10,7 @@ header:
 
 
 <a href="">
-  <img src="/assets/images/sale/metal_oscar_trashcan.png" alt="Metal "Oscar" trashcan">
+  <img src="/assets/images/sale/metal_oscar_trashcan.png" alt="Metal 'Oscar' trashcan">
 </a>
 
 **Preis**: Preisvorschlag
