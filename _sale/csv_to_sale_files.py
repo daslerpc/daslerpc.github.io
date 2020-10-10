@@ -58,7 +58,7 @@ with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
             item_type = data_row[3]
             item_do = data_row[4]
             item_price_each = data_row[10]
-            item_bundle_price = data_row[11]            
+            item_bundle_price = data_row[11]         
             item_desc = data_row[12]
             item_notes = data_row[13]            
             item_listing = data_row[14]

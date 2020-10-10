@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/sofa_sectional_ikea_vallentuna.png" alt="Sofa, sectional (Ikea Vallentuna)">
 </a>
 
-**Preis**: €485.00€
+**Preis**: 485.00€
 
 
 #### Kaufen:

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/lamp_hanging_globe_ikea_höljes.png" alt="Lamp, hanging globe (Ikea Höljes)">
 </a>
 
-**Preis**: €15.00€
+**Preis**: 15.00€
 
 
 #### Kaufen:

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/fan_brandson.png" alt="Fan, Brandson">
 </a>
 
-**Preis**: €25.00€
+**Preis**: 25.00€
 
 
 #### Kaufen:

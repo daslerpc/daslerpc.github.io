@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/mattress_memory_foam_ikea_myrbacka.png" alt="Mattress, memory foam (Ikea Myrbacka)">
 </a>
 
-**Preis**: €240.00€
+**Preis**: 240.00€
 
 
 #### Kaufen:

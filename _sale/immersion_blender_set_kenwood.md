@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/immersion_blender_set_kenwood.png" alt="immersion blender set, Kenwood">
 </a>
 
-**Preis**: €35.00€
+**Preis**: 35.00€
 
 
 #### Kaufen:

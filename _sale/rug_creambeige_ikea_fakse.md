@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/rug_creambeige_ikea_fakse.png" alt="Rug, cream/beige (Ikea Fakse)">
 </a>
 
-**Preis**: €95.00€
+**Preis**: 95.00€
 
 
 #### Kaufen:

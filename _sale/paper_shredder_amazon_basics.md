@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/paper_shredder_amazon_basics.png" alt="Paper shredder, Amazon Basics">
 </a>
 
-**Preis**: €25.00€
+**Preis**: 25.00€
 
 
 #### Kaufen:

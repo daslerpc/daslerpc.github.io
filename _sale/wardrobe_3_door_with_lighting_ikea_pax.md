@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/wardrobe_3_door_with_lighting_ikea_pax.png" alt="Wardrobe, 3 door with lighting (Ikea Pax)">
 </a>
 
-**Preis**: €490.00€
+**Preis**: 490.00€
 
 
 #### Kaufen:
