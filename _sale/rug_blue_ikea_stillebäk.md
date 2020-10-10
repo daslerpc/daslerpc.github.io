@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/rug_blue_ikea_stillebäk.png" alt="Rug, blue (Ikea Stillebäk)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €17.99€
 
 
 #### Kaufen:

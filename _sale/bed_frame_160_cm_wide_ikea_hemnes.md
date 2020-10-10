@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/bed_frame_160_cm_wide_ikea_hemnes.png" alt="Bed frame, 160 cm wide (Ikea Hemnes)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €202.20€
 
 
 #### Kaufen:

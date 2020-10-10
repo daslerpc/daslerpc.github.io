@@ -14,7 +14,8 @@ header:
 </a>
 
    **Quantit&#228;t**: 3  
-   **Preis pro Artikel**: Preisvorschlag  
+   **Preis pro Artikel**: €48.00€  
+   **Preis zusammen**: €130.00€  
 
 
 #### Kaufen:

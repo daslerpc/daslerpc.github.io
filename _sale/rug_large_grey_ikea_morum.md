@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/rug_large_grey_ikea_morum.png" alt="Rug, large grey (Ikea Morum)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €48.00€
 
 
 #### Kaufen:

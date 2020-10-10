@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/lamp_globe_ikea_fado.png" alt="Lamp, globe (Ikea Fado)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €4.80€
 
 
 #### Kaufen:

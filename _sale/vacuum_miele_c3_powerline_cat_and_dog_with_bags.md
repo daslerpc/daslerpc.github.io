@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/vacuum_miele_c3_powerline_cat_and_dog_with_bags.png" alt="Vacuum, Miele C3 Powerline Cat and Dog with bags">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €144.00€
 
 
 #### Kaufen:

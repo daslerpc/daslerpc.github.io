@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/bookshelf_narrow_with_topper_ikea_billy.png" alt="Bookshelf, narrow with topper (Ikea Billy)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €39.00€
 
 
 #### Kaufen:

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/utility_shelf_large_ikea_ivar.png" alt="Utility shelf, large (Ikea Ivar)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €117.60€
 
 
 #### Kaufen:

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/coffee_table_ikea_lisabo.png" alt="Coffee table (Ikea Lisabo)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €59.40€
 
 
 #### Kaufen:

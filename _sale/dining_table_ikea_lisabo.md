@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/dining_table_ikea_lisabo.png" alt="Dining table (Ikea Lisabo)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €89.40€
 
 
 #### Kaufen:

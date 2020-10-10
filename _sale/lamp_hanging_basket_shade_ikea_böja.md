@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/lamp_hanging_basket_shade_ikea_böja.png" alt="Lamp, hanging basket shade (Ikea Böja)">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: €42.00€
 
 
 #### Kaufen:
