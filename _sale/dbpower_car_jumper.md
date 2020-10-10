@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/dbpower_car_jumper.png" alt="DB-Power car jumper">
 </a>
 
-**Preis**: €43.20€
+**Preis**: €45.00€
 
 
 #### Kaufen:

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/tea_kettle_russell_hobbs_blue_1l.png" alt="Tea kettle, Russell Hobbs blue 1L">
 </a>
 
-**Preis**: €16.80€
+**Preis**: €15.00€
 
 
 #### Kaufen:

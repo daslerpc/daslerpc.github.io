@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/toaster_russell_hobbs_blue.png" alt="Toaster, Russell Hobbs blue">
 </a>
 
-**Preis**: €24.00€
+**Preis**: €25.00€
 
 
 #### Kaufen:

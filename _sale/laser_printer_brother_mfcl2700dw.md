@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/laser_printer_brother_mfcl2700dw.png" alt="Laser printer, Brother MFC-L2700DW">
 </a>
 
-**Preis**: €102.00€
+**Preis**: €100.00€
 
 
 #### Kaufen:
