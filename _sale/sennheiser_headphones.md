@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/sennheiser_headphones.png" alt="Sennheiser headphones">
 </a>
 
-**Preis**: 60.00€
+**Preis**: 60€
 
 
 #### Kaufen:

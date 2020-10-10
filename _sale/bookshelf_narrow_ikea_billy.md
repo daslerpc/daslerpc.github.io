@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/bookshelf_narrow_ikea_billy.png" alt="Bookshelf, narrow (Ikea Billy)">
 </a>
 
-**Preis**: 25.00€
+**Preis**: 25€
 
 
 #### Kaufen:

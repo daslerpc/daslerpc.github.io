@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/utility_shelf_small.png" alt="Utility shelf, small">
 </a>
 
-**Preis**: 25.00€
+**Preis**: 25€
 
 
 #### Kaufen:

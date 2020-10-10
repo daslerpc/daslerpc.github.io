@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/spice_grinder.png" alt="spice grinder">
 </a>
 
-**Preis**: 15.00€
+**Preis**: 15€
 
 
 #### Kaufen:

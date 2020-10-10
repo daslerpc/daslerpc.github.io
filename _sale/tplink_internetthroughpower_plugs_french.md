@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/tplink_internetthroughpower_plugs_french.png" alt="TP-link internet-through-power plugs (French)">
 </a>
 
-**Preis**: 40.00€
+**Preis**: 40€
 
 
 #### Kaufen:

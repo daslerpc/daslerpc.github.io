@@ -14,8 +14,8 @@ header:
 </a>
 
    **Quantit&#228;t**: 2  
-   **Preis pro Artikel**: 45.00€  
-   **Preis zusammen**: 80.00€  
+   **Preis pro Artikel**: 45€  
+   **Preis zusammen**: 80€  
 
 
 #### Kaufen:
