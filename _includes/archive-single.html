@@ -10,11 +10,11 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" padding-bottom: 100px;>
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src=
+        <img margin-top: auto; margin-bottom: auto; src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
