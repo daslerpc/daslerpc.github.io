@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/jig_saw.png" alt="Jig saw">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 30€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Jig saw"> Send Email </a>
 

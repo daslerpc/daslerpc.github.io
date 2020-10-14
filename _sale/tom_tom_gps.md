@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/tom_tom_gps.png" alt="Tom Tom GPS">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 20€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Tom Tom GPS"> Send Email </a>
 

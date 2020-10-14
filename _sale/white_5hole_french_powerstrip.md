@@ -14,11 +14,8 @@ header:
 </a>
 
    **Quantit&#228;t**: 3  
-   **Preis pro Artikel**: Preisvorschlag  
+   **Preis pro Artikel**: 5€  
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = White 5-hole French powerstrip"> Send Email </a>
 

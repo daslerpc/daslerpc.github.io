@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/washing_machine_siemens.png" alt="Washing machine, Siemens">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 300€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Washing machine, Siemens"> Send Email </a>
 

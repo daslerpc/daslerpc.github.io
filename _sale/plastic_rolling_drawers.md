@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/plastic_rolling_drawers.png" alt="Plastic rolling drawers">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 10€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Plastic rolling drawers"> Send Email </a>
 

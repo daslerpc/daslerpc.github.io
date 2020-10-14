@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/step_ladder.png" alt="Step Ladder">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 15€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Step Ladder"> Send Email </a>
 

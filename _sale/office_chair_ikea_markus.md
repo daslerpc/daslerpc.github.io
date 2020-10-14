@@ -18,8 +18,5 @@ header:
    **Preis zusammen**: 155€  
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Office chair (Ikea Markus)"> Send Email </a>
 

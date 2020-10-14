@@ -13,11 +13,8 @@ header:
   <img src="/assets/images/sale/3part_trashcan.png" alt="3-part trashcan">
 </a>
 
-**Preis**: Preisvorschlag
+**Preis**: 25€
 
 
-#### Kaufen:
-<a href="">
-  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
-</a>
+#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = 3-part trashcan"> Send Email </a>
 
