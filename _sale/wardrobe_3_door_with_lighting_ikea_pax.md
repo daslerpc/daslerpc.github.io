@@ -16,5 +16,5 @@ header:
 **Preis**: 490€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Wardrobe, 3 door with lighting (Ikea Pax)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Wardrobe, 3 door with lighting (Ikea Pax)">Send Email</a>
 

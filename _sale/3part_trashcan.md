@@ -16,5 +16,5 @@ header:
 **Preis**: 25€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = 3-part trashcan"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=3-part trashcan">Send Email</a>
 

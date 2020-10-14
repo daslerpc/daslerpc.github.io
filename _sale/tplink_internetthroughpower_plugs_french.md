@@ -16,5 +16,5 @@ header:
 **Preis**: 40€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = TP-link internet-through-power plugs (French)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=TP-link internet-through-power plugs (French)">Send Email</a>
 

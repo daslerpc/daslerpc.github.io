@@ -16,5 +16,5 @@ header:
 **Preis**: 35€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = immersion blender set, Kenwood"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=immersion blender set, Kenwood">Send Email</a>
 

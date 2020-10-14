@@ -16,5 +16,5 @@ header:
 **Preis**: 50€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Rug, large grey (Ikea Morum)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Rug, large grey (Ikea Morum)">Send Email</a>
 

@@ -16,5 +16,5 @@ header:
 **Preis**: 200€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Bed frame, 160 cm wide (Ikea Hemnes)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Bed frame, 160 cm wide (Ikea Hemnes)">Send Email</a>
 

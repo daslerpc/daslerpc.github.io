@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 190€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Desk (Ikea Arkelstorp)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Desk (Ikea Arkelstorp)">Send Email</a>
 

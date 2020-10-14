@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 155€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Office chair (Ikea Markus)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Office chair (Ikea Markus)">Send Email</a>
 

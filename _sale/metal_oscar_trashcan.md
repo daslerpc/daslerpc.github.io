@@ -16,5 +16,5 @@ header:
 **Preis**: 5€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Metal Oscar trashcan"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Metal Oscar trashcan">Send Email</a>
 

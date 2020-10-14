@@ -16,5 +16,5 @@ header:
 **Preis**: 300€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Washing machine, Siemens"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Washing machine, Siemens">Send Email</a>
 

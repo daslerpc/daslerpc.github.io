@@ -16,5 +16,5 @@ header:
 **Preis**: 40€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Lamp, hanging basket shade (Ikea Böja)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Lamp, hanging basket shade (Ikea Böja)">Send Email</a>
 

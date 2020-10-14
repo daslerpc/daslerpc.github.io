@@ -16,5 +16,5 @@ header:
 **Preis**: 85€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Fridge"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Fridge">Send Email</a>
 

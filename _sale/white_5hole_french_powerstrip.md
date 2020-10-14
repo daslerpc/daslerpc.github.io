@@ -17,5 +17,5 @@ header:
    **Preis pro Artikel**: 5€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = White 5-hole French powerstrip"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=White 5-hole French powerstrip">Send Email</a>
 

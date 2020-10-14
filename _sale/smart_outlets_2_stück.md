@@ -16,5 +16,5 @@ header:
 **Preis**: 15€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Smart Outlets (2 stück)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Smart Outlets (2 stück)">Send Email</a>
 

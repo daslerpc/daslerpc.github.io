@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 10€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = 10 hole black German power strip"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=10 hole black German power strip">Send Email</a>
 

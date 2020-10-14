@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 35€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Lamp, green perforated shade (Ikea Nymö/Skaftet)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Lamp, green perforated shade (Ikea Nymö/Skaftet)">Send Email</a>
 

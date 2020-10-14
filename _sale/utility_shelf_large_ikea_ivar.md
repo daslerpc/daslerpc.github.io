@@ -16,5 +16,5 @@ header:
 **Preis**: 120€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Utility shelf, large (Ikea Ivar)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Utility shelf, large (Ikea Ivar)">Send Email</a>
 

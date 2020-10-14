@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 135€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Bookshelf, wide with topper (Ikea Billy)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Bookshelf, wide with topper (Ikea Billy)">Send Email</a>
 

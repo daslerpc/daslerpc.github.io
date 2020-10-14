@@ -16,5 +16,5 @@ header:
 **Preis**: 20€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Tom Tom GPS"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Tom Tom GPS">Send Email</a>
 

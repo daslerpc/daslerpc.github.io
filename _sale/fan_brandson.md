@@ -16,5 +16,5 @@ header:
 **Preis**: 25€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Fan, Brandson"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Fan, Brandson">Send Email</a>
 

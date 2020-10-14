@@ -16,5 +16,5 @@ header:
 **Preis**: 145€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Vacuum, Miele C3 Powerline Cat and Dog with bags"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Vacuum, Miele C3 Powerline Cat and Dog with bags">Send Email</a>
 

@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 145€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Dining chair (Ikea Henriksdal)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Dining chair (Ikea Henriksdal)">Send Email</a>
 

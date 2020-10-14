@@ -16,5 +16,5 @@ header:
 **Preis**: 15€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = iron"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=iron">Send Email</a>
 

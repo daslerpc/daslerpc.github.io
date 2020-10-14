@@ -16,5 +16,5 @@ header:
 **Preis**: 40€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Bookshelf, narrow with topper (Ikea Billy)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Bookshelf, narrow with topper (Ikea Billy)">Send Email</a>
 

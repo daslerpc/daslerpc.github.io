@@ -16,5 +16,5 @@ header:
 **Preis**: 45€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = DB-Power car jumper"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=DB-Power car jumper">Send Email</a>
 

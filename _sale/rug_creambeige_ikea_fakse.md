@@ -16,5 +16,5 @@ header:
 **Preis**: 95€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Rug, cream/beige (Ikea Fakse)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Rug, cream/beige (Ikea Fakse)">Send Email</a>
 

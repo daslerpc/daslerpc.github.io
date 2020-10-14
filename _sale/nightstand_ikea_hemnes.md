@@ -18,5 +18,5 @@ header:
    **Preis zusammen**: 80€  
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Nightstand (Ikea Hemnes)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Nightstand (Ikea Hemnes)">Send Email</a>
 

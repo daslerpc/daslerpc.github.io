@@ -16,5 +16,5 @@ header:
 **Preis**: 10€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Full-length mirror"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Full-length mirror">Send Email</a>
 

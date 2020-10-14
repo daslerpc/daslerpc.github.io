@@ -16,5 +16,5 @@ header:
 **Preis**: 30€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Jig saw"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Jig saw">Send Email</a>
 

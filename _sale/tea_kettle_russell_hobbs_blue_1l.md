@@ -16,5 +16,5 @@ header:
 **Preis**: 15€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Tea kettle, Russell Hobbs blue 1L"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Tea kettle, Russell Hobbs blue 1L">Send Email</a>
 

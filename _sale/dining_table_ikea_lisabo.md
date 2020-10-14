@@ -16,5 +16,5 @@ header:
 **Preis**: 90€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Dining table (Ikea Lisabo)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Dining table (Ikea Lisabo)">Send Email</a>
 

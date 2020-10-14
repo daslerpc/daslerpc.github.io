@@ -16,5 +16,5 @@ header:
 **Preis**: 60€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Sennheiser headphones"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Sennheiser headphones">Send Email</a>
 

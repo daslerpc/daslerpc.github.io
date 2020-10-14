@@ -16,5 +16,5 @@ header:
 **Preis**: 60€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Coffee table (Ikea Lisabo)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Coffee table (Ikea Lisabo)">Send Email</a>
 

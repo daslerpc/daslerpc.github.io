@@ -16,5 +16,5 @@ header:
 **Preis**: 240€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Mattress, memory foam (Ikea Myrbacka)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Mattress, memory foam (Ikea Myrbacka)">Send Email</a>
 

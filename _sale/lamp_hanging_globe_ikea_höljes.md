@@ -16,5 +16,5 @@ header:
 **Preis**: 15€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Lamp, hanging globe (Ikea Höljes)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Lamp, hanging globe (Ikea Höljes)">Send Email</a>
 

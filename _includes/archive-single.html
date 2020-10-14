@@ -10,7 +10,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item" padding-bottom: 10px;>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
@@ -20,7 +20,7 @@
           {% else %}
             "{{ teaser | relative_url }}"
           {% endif %}
-          alt="" style="width:175px; height:auto; padding:10px;">
+          alt="" style="width:175px; height:auto; padding-right:10px;">
           
       </div>
     <h2 class="archive__item-title" itemprop="headline">

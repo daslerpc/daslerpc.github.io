@@ -16,5 +16,5 @@ header:
 **Preis**: 485€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Sofa, sectional (Ikea Vallentuna)"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Sofa, sectional (Ikea Vallentuna)">Send Email</a>
 

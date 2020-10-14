@@ -16,5 +16,5 @@ header:
 **Preis**: 100€
 
 
-#### Kaufen:<a href = "mailto: digitaldasler@gmail.com?subject = Laser printer, Brother MFC-L2700DW"> Send Email </a>
+#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Laser printer, Brother MFC-L2700DW">Send Email</a>
 
