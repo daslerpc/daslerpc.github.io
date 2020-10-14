@@ -15,6 +15,12 @@ header:
 
 **Preis**: 45€
 
+##### Beachten:
+Nur 2 Jahre alt und in gute Zustand.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=DB-Power car jumper">Send Email</a>
+
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 

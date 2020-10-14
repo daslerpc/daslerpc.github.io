@@ -105,12 +105,13 @@ with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
 
                 project_file.write('\n')
                 project_file.write('\n#### Kaufen:')
+                project_file.write(' <a href = "mailto:digitaldasler@gmail.com?subject='+item_name+'">Send Email</a>\n')
                 if item_notes != '':
                     project_file.write('\n<a href="'+ item_listing +'">\n')
                     project_file.write('  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">\n')
                     project_file.write('</a>\n')
-                else:
-                    project_file.write(' <a href = "mailto:digitaldasler@gmail.com?subject='+item_name+'">Send Email</a>\n')
+    
+                    
                 project_file.write('\n')
                 project_file.close()
         

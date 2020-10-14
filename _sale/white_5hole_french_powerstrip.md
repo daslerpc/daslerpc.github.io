@@ -16,6 +16,12 @@ header:
    **Quantit&#228;t**: 3  
    **Preis pro Artikel**: 5€  
 
+##### Beachten:
+Nur 2 Jahre alt und in gute Zustand.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=White 5-hole French powerstrip">Send Email</a>
+
+<a href="">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 
