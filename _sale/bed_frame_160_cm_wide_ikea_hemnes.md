@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/bed_frame_160_cm_wide_ikea_hemnes.png" alt="Bed frame, 160 cm wide (Ikea Hemnes)">
 </a>
 
-**Preis**: 200€
+**Preis**: 170€
 
 ##### Beachten:
 Ich verkaufe ein schwarzbraun Ikea Hemnes Bettgestell 160x200 cm mit 2 Lattenroste (80x200 cm). 

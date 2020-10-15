@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/mattress_memory_foam_ikea_myrbacka.png" alt="Mattress, memory foam (Ikea Myrbacka)">
 </a>
 
-**Preis**: 240€
+**Preis**: 200€
 
 ##### Beachten:
 Ich verkaufe eine Memoryschaummatratze von Ikea, Größe 160x200cm, fest. Es ist 2 Jahre alt und in gutem Zustand.

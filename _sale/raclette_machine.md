@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/raclette_machine.png" alt="raclette machine">
 </a>
 
-**Preis**: 35€
+**Preis**: 30€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/freezer.png" alt="Freezer">
 </a>
 
-**Preis**: 85€
+**Preis**: 75€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

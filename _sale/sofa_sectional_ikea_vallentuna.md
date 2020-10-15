@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/sofa_sectional_ikea_vallentuna.png" alt="Sofa, sectional (Ikea Vallentuna)">
 </a>
 
-**Preis**: 485€
+**Preis**: 405€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

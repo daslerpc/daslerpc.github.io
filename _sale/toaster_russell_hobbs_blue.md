@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/toaster_russell_hobbs_blue.png" alt="Toaster, Russell Hobbs blue">
 </a>
 
-**Preis**: 25€
+**Preis**: 20€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

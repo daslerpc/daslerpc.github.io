@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/utility_shelf_small.png" alt="Utility shelf, small">
 </a>
 
-**Preis**: 25€
+**Preis**: 20€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

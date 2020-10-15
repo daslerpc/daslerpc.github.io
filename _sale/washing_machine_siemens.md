@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/washing_machine_siemens.png" alt="Washing machine, Siemens">
 </a>
 
-**Preis**: 300€
+**Preis**: 250€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

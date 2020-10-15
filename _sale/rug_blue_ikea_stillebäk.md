@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/rug_blue_ikea_stillebäk.png" alt="Rug, blue (Ikea Stillebäk)">
 </a>
 
-**Preis**: 20€
+**Preis**: 15€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

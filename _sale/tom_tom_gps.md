@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/tom_tom_gps.png" alt="Tom Tom GPS">
 </a>
 
-**Preis**: 20€
+**Preis**: 15€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/coffee_table_ikea_lisabo.png" alt="Coffee table (Ikea Lisabo)">
 </a>
 
-**Preis**: 60€
+**Preis**: 50€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

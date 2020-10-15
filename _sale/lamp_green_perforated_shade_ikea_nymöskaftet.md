@@ -14,8 +14,8 @@ header:
 </a>
 
    **Quantit&#228;t**: 2  
-   **Preis pro Artikel**: 20€  
-   **Preis zusammen**: 35€  
+   **Preis pro Artikel**: 15€  
+   **Preis zusammen**: 25€  
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

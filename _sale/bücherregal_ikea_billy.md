@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/bücherregal_ikea_billy.png" alt="Bücherregal, Ikea Billy">
 </a>
 
-**Preis**: 205€
+**Preis**: 170€
 
 ##### Beachten:
 Ich verkaufe ein großes Bücherregal von Ikeas Billy serie, farbe braun Eschenfurnier. Im Preis inbegriffen ist:

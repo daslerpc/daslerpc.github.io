@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/fridge.png" alt="Fridge">
 </a>
 
-**Preis**: 85€
+**Preis**: 70€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/rug_large_grey_ikea_morum.png" alt="Rug, large grey (Ikea Morum)">
 </a>
 
-**Preis**: 50€
+**Preis**: 40€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

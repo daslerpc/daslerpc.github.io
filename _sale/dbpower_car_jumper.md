@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/dbpower_car_jumper.png" alt="DB-Power car jumper">
 </a>
 
-**Preis**: 45€
+**Preis**: 35€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.

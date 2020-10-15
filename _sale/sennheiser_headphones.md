@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/sennheiser_headphones.png" alt="Sennheiser headphones">
 </a>
 
-**Preis**: 60€
+**Preis**: 50€
 
 ##### Beachten:
 Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
