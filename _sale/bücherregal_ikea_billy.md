@@ -25,8 +25,7 @@ Ich verkaufe ein großes Bücherregal von Ikeas Billy serie, farbe braun Eschenf
 
 Alles ist nur 2 Jahre alt und in gute Zustand.
 
-#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Bücherregal, Ikea Billy">Send Email</a>
-
+#### Kaufen:
 <a href="https://www.ebay-kleinanzeigen.de/s-anzeige/grosses-buecherregal-ikea-billy-237-cm-hohe/1540624931-88-9420">
   <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
 </a>
