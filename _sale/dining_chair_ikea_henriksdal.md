@@ -18,7 +18,7 @@ header:
    **Preis zusammen**: 145€  
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Dining chair (Ikea Henriksdal)">Send Email</a>
 

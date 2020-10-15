@@ -18,7 +18,7 @@ header:
 ##### Beachten:
 Ich verkaufe ein schwarzbraun Ikea Hemnes Bettgestell 160x200 cm mit 2 Lattenroste (80x200 cm). 
 
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Bed frame, 160 cm wide (Ikea Hemnes)">Send Email</a>
 

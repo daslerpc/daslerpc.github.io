@@ -16,7 +16,7 @@ header:
 **Preis**: 50€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Rug, large grey (Ikea Morum)">Send Email</a>
 

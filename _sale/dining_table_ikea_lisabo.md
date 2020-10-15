@@ -16,7 +16,7 @@ header:
 **Preis**: 90€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Dining table (Ikea Lisabo)">Send Email</a>
 

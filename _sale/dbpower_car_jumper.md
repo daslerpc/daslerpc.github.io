@@ -16,7 +16,7 @@ header:
 **Preis**: 45€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=DB-Power car jumper">Send Email</a>
 

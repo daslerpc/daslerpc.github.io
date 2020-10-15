@@ -16,7 +16,7 @@ header:
 **Preis**: 120€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Utility shelf, large (Ikea Ivar)">Send Email</a>
 

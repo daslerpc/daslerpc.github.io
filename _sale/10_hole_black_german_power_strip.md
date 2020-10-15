@@ -18,7 +18,7 @@ header:
    **Preis zusammen**: 10€  
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=10 hole black German power strip">Send Email</a>
 

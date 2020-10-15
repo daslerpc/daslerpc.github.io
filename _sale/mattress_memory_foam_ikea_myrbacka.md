@@ -20,7 +20,7 @@ Ich verkaufe eine Memoryschaummatratze von Ikea, Größe 160x200cm, fest. Es ist
 
 Im Foto ist auch ein Hemnes Bettgestell, das ich verkaufe auch hier: https://www.ebay-kleinanzeigen.de/s-anzeige/ikea-hemnes-bettgestell-160x200-cm-mit-lattenroste/1540599885-81-9420
 
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Mattress, memory foam (Ikea Myrbacka)">Send Email</a>
 

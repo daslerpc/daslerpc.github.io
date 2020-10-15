@@ -16,7 +16,7 @@ header:
 **Preis**: 490€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Wardrobe, 3 door with lighting (Ikea Pax)">Send Email</a>
 

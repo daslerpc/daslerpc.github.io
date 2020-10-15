@@ -16,7 +16,7 @@ header:
 **Preis**: 95€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Rug, cream/beige (Ikea Fakse)">Send Email</a>
 

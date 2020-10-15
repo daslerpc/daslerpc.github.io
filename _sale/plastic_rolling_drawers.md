@@ -16,7 +16,7 @@ header:
 **Preis**: 10€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Plastic rolling drawers">Send Email</a>
 

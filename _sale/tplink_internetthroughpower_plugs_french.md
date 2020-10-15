@@ -16,7 +16,7 @@ header:
 **Preis**: 40€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=TP-link internet-through-power plugs (French)">Send Email</a>
 

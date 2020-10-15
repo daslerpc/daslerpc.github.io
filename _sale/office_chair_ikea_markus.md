@@ -18,7 +18,7 @@ header:
    **Preis zusammen**: 155€  
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.
+Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Office chair (Ikea Markus)">Send Email</a>
 
