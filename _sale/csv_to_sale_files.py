@@ -74,7 +74,7 @@ with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
             image_directory = '/assets/images/sale/'
             image_filename = image_directory + item_clean_name +'.png'
                 
-            if item_do == "Sell":
+            if item_do == "Sell" and item_status != "Sold":
 
                 project_file = codecs.open(item_clean_name + '.md', 'w',  "utf-8")
 
