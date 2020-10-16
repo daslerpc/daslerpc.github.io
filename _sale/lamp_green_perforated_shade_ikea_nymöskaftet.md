@@ -14,11 +14,13 @@ header:
 </a>
 
    **Quantit&#228;t**: 2  
-   **Preis pro Artikel**: 15€  
-   **Preis zusammen**: 25€  
+   **Preis pro Artikel**: 10€  
+   **Preis zusammen**: 20€  
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
+Nur 2 Jahre alt und in gute Zustand.
+Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Lamp, green perforated shade (Ikea Nymö/Skaftet)">Send Email</a>
 

@@ -16,7 +16,9 @@ header:
 **Preis**: 35€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
+Nur 2 Jahre alt und in gute Zustand.
+Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=immersion blender set, Kenwood">Send Email</a>
 

@@ -99,9 +99,13 @@ with codecs.open('inventory.csv', 'r',  "utf-8") as csvfile:
                         project_file.write('**Preis**: ' + item_price_each + '\n')
 
                 
+                
+                project_file.write('\n##### Beachten:\n')
+                project_file.write('**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**\n')
+                project_file.write('Nur 2 Jahre alt und in gute Zustand.\n')
+                project_file.write('Nur Selbstabholer.')
                 if item_notes != '':
-                        project_file.write('\n##### Beachten:\n')
-                        project_file.write(item_notes)
+                        project_file.write('\n\n'+item_notes)
 
                 project_file.write('\n')
                 project_file.write('\n#### Kaufen:')                

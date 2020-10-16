@@ -13,9 +13,13 @@ header:
   <img src="/assets/images/sale/wardrobe_3_door_with_lighting_ikea_pax.png" alt="Wardrobe, 3 door with lighting (Ikea Pax)">
 </a>
 
-**Preis**: 410€
+**Preis**: 245€
 
 ##### Beachten:
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
+Nur 2 Jahre alt und in gute Zustand.
+Nur Selbstabholer.
+
 Ikea Pax Kleiderschrank in Eicheneff wlas mit 3 Türen. Ich habe in 2018 gekauft. Im Preis inbegriffen ist:
 _ 2 Korpus Kleiderschrank, 75cm breit x 58cm tief x 236cm hohe
 _ 1 Korpus Kleiderschrank, 50cm breit x 58cm tief x 236cm hohe

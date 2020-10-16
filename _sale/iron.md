@@ -13,10 +13,12 @@ header:
   <img src="/assets/images/sale/iron.png" alt="iron">
 </a>
 
-**Preis**: 15€
+**Preis**: 10€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
+Nur 2 Jahre alt und in gute Zustand.
+Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=iron">Send Email</a>
 

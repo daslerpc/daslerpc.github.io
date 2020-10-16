@@ -13,10 +13,12 @@ header:
   <img src="/assets/images/sale/paper_shredder_amazon_basics.png" alt="Paper shredder, Amazon Basics">
 </a>
 
-**Preis**: 20€
+**Preis**: 15€
 
 ##### Beachten:
-Nur 2 Jahre alt und in gute Zustand.<br>Nur Selbstabholer.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
+Nur 2 Jahre alt und in gute Zustand.
+Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Paper shredder, Amazon Basics">Send Email</a>
 
