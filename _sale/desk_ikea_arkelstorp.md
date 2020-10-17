@@ -18,8 +18,8 @@ header:
    **Preis zusammen**: 100€  
 
 ##### Beachten:
-**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
-Nur 2 Jahre alt und in gute Zustand.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>
+Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
 #### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Desk (Ikea Arkelstorp)">Send Email</a>

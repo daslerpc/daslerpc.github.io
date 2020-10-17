@@ -16,8 +16,8 @@ header:
 **Preis**: 120€
 
 ##### Beachten:
-**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**
-Nur 2 Jahre alt und in gute Zustand.
+**Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>
+Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
 Ich verkaufe eine Memoryschaummatratze von Ikea, Größe 160x200cm, fest. 
