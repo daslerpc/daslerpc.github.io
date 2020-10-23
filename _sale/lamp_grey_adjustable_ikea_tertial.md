@@ -14,7 +14,7 @@ header:
 </a>
 
    **Quantit&#228;t**: 4  
-   **Preis pro Artikel**: 5€  
+   **Preis pro Artikel**: 0€  
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

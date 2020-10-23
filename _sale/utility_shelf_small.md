@@ -9,7 +9,7 @@ header:
 
 
 
-<a href="">
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/ikea-ivar-regal-mit-flaschbord/1548747775-88-9420">
   <img src="/assets/images/sale/utility_shelf_small.png" alt="Utility shelf, small">
 </a>
 
@@ -20,5 +20,8 @@ header:
 Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
-#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Utility shelf, small">Send Email</a>
+#### Kaufen:
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/ikea-ivar-regal-mit-flaschbord/1548747775-88-9420">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 

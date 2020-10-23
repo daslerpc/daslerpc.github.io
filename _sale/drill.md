@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/drill.png" alt="Drill">
 </a>
 
-**Preis**: 30€
+**Preis**: 20€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

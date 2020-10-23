@@ -9,7 +9,7 @@ header:
 
 
 
-<a href="">
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/laserdrucker-brother-mfc-l2700dw/1548727138-225-9420">
   <img src="/assets/images/sale/laser_printer_brother_mfcl2700dw.png" alt="Laser printer, Brother MFC-L2700DW">
 </a>
 
@@ -20,5 +20,8 @@ header:
 Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
-#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Laser printer, Brother MFC-L2700DW">Send Email</a>
+#### Kaufen:
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/laserdrucker-brother-mfc-l2700dw/1548727138-225-9420">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 

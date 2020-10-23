@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/iron.png" alt="iron">
 </a>
 
-**Preis**: 10€
+**Preis**: 0€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

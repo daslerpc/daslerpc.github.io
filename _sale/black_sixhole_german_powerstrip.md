@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/black_sixhole_german_powerstrip.png" alt="Black six-hole german powerstrip">
 </a>
 
-**Preis**: 5€
+**Preis**: 0€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

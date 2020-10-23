@@ -9,7 +9,7 @@ header:
 
 
 
-<a href="">
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/cremefarbener-teppich-ikea-fakse-/1548737238-90-9420">
   <img src="/assets/images/sale/rug_creambeige_ikea_fakse.png" alt="Rug, cream/beige (Ikea Fakse)">
 </a>
 
@@ -20,5 +20,8 @@ header:
 Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
-#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Rug, cream/beige (Ikea Fakse)">Send Email</a>
+#### Kaufen:
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/cremefarbener-teppich-ikea-fakse-/1548737238-90-9420">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 

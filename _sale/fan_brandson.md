@@ -9,7 +9,7 @@ header:
 
 
 
-<a href="">
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/brandson-standventilator/1548742812-176-9420">
   <img src="/assets/images/sale/fan_brandson.png" alt="Fan, Brandson">
 </a>
 
@@ -20,5 +20,8 @@ header:
 Nur 2 Jahre alt und in gute Zustand.<br>
 Nur Selbstabholer.
 
-#### Kaufen: <a href = "mailto:digitaldasler@gmail.com?subject=Fan, Brandson">Send Email</a>
+#### Kaufen:
+<a href="https://www.ebay-kleinanzeigen.de/s-anzeige/brandson-standventilator/1548742812-176-9420">
+  <img src="/assets/images/ebay.png" alt="Ebay Kleinanzeigen" style="border: 5px solid #555">
+</a>
 

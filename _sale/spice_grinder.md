@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/spice_grinder.png" alt="spice grinder">
 </a>
 
-**Preis**: 10€
+**Preis**: 0€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

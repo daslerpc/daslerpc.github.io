@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/lamp_globe_ikea_fado.png" alt="Lamp, globe (Ikea Fado)">
 </a>
 
-**Preis**: 5€
+**Preis**: 0€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/lamp_hanging_globe_ikea_höljes.png" alt="Lamp, hanging globe (Ikea Höljes)">
 </a>
 
-**Preis**: 10€
+**Preis**: 0€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

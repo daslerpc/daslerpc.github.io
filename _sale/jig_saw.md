@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/jig_saw.png" alt="Jig saw">
 </a>
 
-**Preis**: 30€
+**Preis**: 20€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>

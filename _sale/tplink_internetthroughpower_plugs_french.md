@@ -13,7 +13,7 @@ header:
   <img src="/assets/images/sale/tplink_internetthroughpower_plugs_french.png" alt="TP-link internet-through-power plugs (French)">
 </a>
 
-**Preis**: 20€
+**Preis**: 15€
 
 ##### Beachten:
 **Ich muss es bis zum 27. Oktober verkaufen! Gerne Preisvorschläge schicken!**<br>
